@@ -1,0 +1,801 @@
+Tienda;Marca;Tipo;Género;Talla;Color;Categoria;precio de venta;Fecha;Hora;Precio_lista
+Lima;Asics;WB1820;Femenino;42;Azul;Pants;S/.89.00;15/07/2015;7:32 a.m.;32.353115
+Lima;Asics;Kayano Single Tab;Usinex;42-44;Azul;Socks;S/.24.99;15/07/2015;7:33 a.m.;9.94737465
+Lima;Asics;WB1820;Femenino;37;Rosado;Pants;S/.89.00;15/07/2015;7:52 a.m.;32.353115
+Lima;Asics;WB2585;Femenino;39;Negro;Pants;S/.99.00;15/07/2015;7:58 a.m.;35.853465
+Lima;Asics;WB1820;Femenino;46;Multicolor;Pants;S/.89.00;15/07/2015;8:19 a.m.;32.353115
+Lima;Asics;WB1820;Femenino;39;Azul;Pants;S/.89.00;15/07/2015;8:48 a.m.;32.353115
+Lima;Asics;MB1878;Masculino;38;Negro;Pants;S/.99.00;15/07/2015;9:07 a.m.;35.853465
+Lima;Asics;Hera Deux Single Tab;Femenino;42-44;Negro;Socks;S/.12.99;15/07/2015;9:11 a.m.;5.74695465
+Lima;Asics;MB1878;Masculino;38;Negro;Pants;S/.99.00;15/07/2015;10:04 a.m.;35.853465
+Lima;Asics;MB1878;Masculino;46;Negro;Pants;S/.99.00;15/07/2015;10:06 a.m.;35.853465
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Rosado;Socks;S/.21.00;15/07/2015;10:45 a.m.;8.550735
+Lima;Asics;Cummulus 17;Masculino;44;Gris;Shoe;S/.159.00;15/07/2015;10:56 a.m.;56.855565
+Lima;Asics;WB1820;Femenino;46;Verde;Pants;S/.89.00;15/07/2015;11:05 a.m.;32.353115
+Lima;Asics;Nimbus 17;Masculino;39;Azul;Shoe;S/.128.00;15/07/2015;11:34 a.m.;46.00448
+Lima;Asics;WB1820;Femenino;40;Azul;Pants;S/.89.00;15/07/2015;11:41 a.m.;32.353115
+Lima;Nike;Pro Fierce;Femenino;70F;Rosado;Bra;S/.149.00;15/07/2015;11:51 a.m.;53.355215
+Lima;Asics;WB1820;Femenino;37;Multicolor;Pants;S/.89.00;15/07/2015;11:55 a.m.;32.353115
+Lima;Asics;WB1820;Femenino;41;Azul;Pants;S/.89.00;15/07/2015;12:41 p.m.;32.353115
+Lima;Asics;WB1820;Femenino;45;Amarillo;Pants;S/.89.00;15/07/2015;1:01 p.m.;32.353115
+Lima;Nike;Air Zoom;Masculino;42;Azul;Shoe;S/.230.00;15/07/2015;1:30 p.m.;81.70805
+Lima;Asics;Quick Light Cushion;Usinex;36-38;Azul;Socks;S/.19.00;15/07/2015;2:52 p.m.;7.850665
+Lima;Asics;WB2585;Femenino;46;Negro;Pants;S/.99.00;15/07/2015;2:52 p.m.;35.853465
+Lima;Nike;Hyper Elite Crew;Usinex;38-40;Verde;Socks;S/.20.00;15/07/2015;2:54 p.m.;8.2007
+Lima;Asics;Hera Deux Single Tab;Femenino;40-42;Verde;Socks;S/.12.99;15/07/2015;2:55 p.m.;5.74695465
+Lima;Asics;WB1820;Femenino;46;Gris;Pants;S/.89.00;15/07/2015;3:10 p.m.;32.353115
+Lima;Asics;MB1878;Masculino;37;Negro;Pants;S/.99.00;15/07/2015;3:31 p.m.;35.853465
+Lima;Asics;Gel Quantics ;Masculino;37;Verde;Shoe;S/.120.00;15/07/2015;3:59 p.m.;43.2042
+Lima;Asics;Hera Deux Single Tab;Femenino;46-48;Azul;Socks;S/.12.99;15/07/2015;4:03 p.m.;5.74695465
+Lima;Nike;Pro Hero;Femenino;80A;Rosado;Bra;S/.99.00;15/07/2015;5:24 p.m.;35.853465
+Lima;Asics;WB2585;Femenino;40;Negro;Pants;S/.99.00;15/07/2015;5:44 p.m.;35.853465
+Lima;Nike;Pro Fierce;Femenino;80B;Multicolor;Bra;S/.149.00;15/07/2015;6:43 p.m.;53.355215
+Lima;Asics;MB1878;Masculino;40;Negro;Pants;S/.99.00;15/07/2015;6:59 p.m.;35.853465
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Negro;Socks;S/.21.00;15/07/2015;7:03 p.m.;8.550735
+Lima;Asics;WB1820;Femenino;45;Amarillo;Pants;S/.89.00;15/07/2015;7:30 p.m.;32.353115
+Lima;Asics;WB2585;Femenino;40;Negro;Pants;S/.99.00;15/07/2015;7:36 p.m.;35.853465
+Lima;Asics;WB1820;Femenino;38;Rosado;Pants;S/.89.00;15/07/2015;7:36 p.m.;32.353115
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Rosado;Socks;S/.20.00;15/07/2015;7:43 p.m.;8.2007
+Lima;Nike;Pro Fierce;Femenino;80C;Amarillo;Bra;S/.149.00;15/07/2015;7:56 p.m.;53.355215
+Lima;Asics;WB1820;Femenino;43;Negro;Pants;S/.89.00;15/07/2015;8:00 p.m.;32.353115
+Lima;Nike;Dri-Fit No-Show;Usinex;42-44;Rosado;Socks;S/.20.00;15/07/2015;8:13 p.m.;8.2007
+Lima;Asics;Quick Light Cushion;Usinex;40-42;Azul;Socks;S/.19.00;15/07/2015;8:52 p.m.;7.850665
+Lima;Asics;Cummulus 17;Masculino;38;Rosado;Shoe;S/.159.00;15/07/2015;8:55 p.m.;56.855565
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;36-38;Verde;Socks;S/.21.00;15/07/2015;9:05 p.m.;8.550735
+Lima;Asics;WB1820;Femenino;36;Gris;Pants;S/.89.00;15/07/2015;9:08 p.m.;32.353115
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;42-44;Negro;Socks;S/.21.00;15/07/2015;10:01 p.m.;8.550735
+Lima;Asics;WB1820;Femenino;41;Negro;Pants;S/.89.00;15/07/2015;10:45 p.m.;32.353115
+Lima;Asics;MB1878;Masculino;38;Negro;Pants;S/.99.00;15/07/2015;11:13 p.m.;35.853465
+Lima;Nike;Pro Indy;Femenino;80F;Azul;Bra;S/.123.00;15/07/2015;9:52 a.m.;44.254305
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Verde;Socks;S/.21.00;15/07/2015;10:00 a.m.;8.550735
+Lima;Asics;Kayano Single Tab;Usinex;44-46;Negro;Socks;S/.24.99;15/07/2015;10:02 a.m.;9.94737465
+Lima;Nike;Pro Fierce;Femenino;80C;Verde;Bra;S/.149.00;15/07/2015;10:10 a.m.;53.355215
+Lima;Nike;Hyper Elite Crew;Usinex;44-46;Azul;Socks;S/.20.00;15/07/2015;10:20 a.m.;8.2007
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Azul;Socks;S/.21.00;15/07/2015;10:52 a.m.;8.550735
+Lima;Asics;WB1820;Femenino;38;Amarillo;Pants;S/.89.00;15/07/2015;10:52 a.m.;32.353115
+Lima;Asics;MB1878;Masculino;44;Negro;Pants;S/.99.00;15/07/2015;11:01 a.m.;35.853465
+Lima;Nike;Pro Fierce;Femenino;85F;Verde;Bra;S/.149.00;15/07/2015;11:20 a.m.;53.355215
+Lima;Asics;MB1878;Masculino;46;Negro;Pants;S/.99.00;15/07/2015;11:25 a.m.;35.853465
+Lima;Nike;Free 5.0;Femenino;38;Verde;Shoe;S/.239.00;15/07/2015;11:28 a.m.;84.858365
+Lima;Nike;Pro Fierce;Femenino;70B;Negro;Bra;S/.149.00;15/07/2015;11:32 a.m.;53.355215
+Lima;Nike;Pro Indy;Femenino;80E;Rosado;Bra;S/.123.00;15/07/2015;11:38 a.m.;44.254305
+Lima;Asics;WB1820;Femenino;43;Negro;Pants;S/.89.00;15/07/2015;11:38 a.m.;32.353115
+Lima;Asics;WB1820;Femenino;36;Gris;Pants;S/.89.00;15/07/2015;11:58 a.m.;32.353115
+Lima;Nike;Hyper Elite Crew;Usinex;44-46;Rosado;Socks;S/.20.00;15/07/2015;12:01 p.m.;8.2007
+Lima;Asics;WB2585;Femenino;44;Negro;Pants;S/.99.00;15/07/2015;12:09 p.m.;35.853465
+Lima;Asics;Quick Light Cushion;Usinex;46-48;Azul;Socks;S/.19.00;15/07/2015;12:11 p.m.;7.850665
+Lima;Adidas;Ultra Boost;Masculino;41;Amarillo;Shoe;S/.139.00;15/07/2015;12:19 p.m.;49.854865
+Lima;Asics;WB1820;Femenino;46;Multicolor;Pants;S/.89.00;15/07/2015;12:21 p.m.;32.353115
+Lima;Asics;WB1820;Femenino;38;Rosado;Pants;S/.89.00;15/07/2015;12:40 p.m.;32.353115
+Lima;Asics;Quick Light Cushion;Usinex;36-38;Verde;Socks;S/.19.00;15/07/2015;12:42 p.m.;7.850665
+Lima;Asics;Kayano Single Tab;Usinex;36-38;Verde;Socks;S/.24.99;15/07/2015;12:42 p.m.;9.94737465
+Lima;Asics;WB1820;Femenino;39;Rosado;Pants;S/.89.00;15/07/2015;1:05 p.m.;32.353115
+Lima;Asics;WB1820;Femenino;41;Rosado;Pants;S/.89.00;15/07/2015;1:16 p.m.;32.353115
+Lima;Asics;Hera Deux Single Tab;Femenino;38-40;Negro;Socks;S/.12.99;15/07/2015;1:18 p.m.;5.74695465
+Lima;Nike;Pro Fierce;Femenino;90B;Azul;Bra;S/.149.00;15/07/2015;1:25 p.m.;53.355215
+Lima;Asics;MB1878;Masculino;42;Negro;Pants;S/.99.00;15/07/2015;1:25 p.m.;35.853465
+Lima;Nike;Free 5.0;Masculino;40;Multicolor;Shoe;S/.239.00;15/07/2015;1:28 p.m.;84.858365
+Lima;Asics;Kayano Single Tab;Usinex;42-44;Verde;Socks;S/.24.99;15/07/2015;1:28 p.m.;9.94737465
+Lima;Asics;MB1878;Masculino;38;Negro;Pants;S/.99.00;15/07/2015;1:31 p.m.;35.853465
+Lima;Nike;Pro Fierce;Femenino;90F;Azul;Bra;S/.149.00;15/07/2015;1:38 p.m.;53.355215
+Lima;Asics;MB1878;Masculino;37;Negro;Pants;S/.99.00;15/07/2015;1:48 p.m.;35.853465
+Lima;Asics;Nimbus 17;Masculino;39;Amarillo;Shoe;S/.128.00;15/07/2015;2:02 p.m.;46.00448
+Lima;Nike;Free 5.0;Femenino;43;Gris;Shoe;S/.239.00;15/07/2015;2:20 p.m.;84.858365
+Lima;Asics;MB1878;Masculino;43;Negro;Pants;S/.99.00;15/07/2015;2:24 p.m.;35.853465
+Lima;Asics;Kayano Single Tab;Usinex;44-46;Rosado;Socks;S/.24.99;15/07/2015;2:32 p.m.;9.94737465
+Lima;Asics;WB1820;Femenino;46;Negro;Pants;S/.89.00;15/07/2015;2:45 p.m.;32.353115
+Lima;Asics;Nimbus 17;Masculino;39;Negro;Shoe;S/.128.00;15/07/2015;2:48 p.m.;46.00448
+Lima;Asics;WB1820;Femenino;45;Verde;Pants;S/.89.00;15/07/2015;2:55 p.m.;32.353115
+Lima;Nike;Pro Hero;Femenino;65D;Azul;Bra;S/.99.00;15/07/2015;2:58 p.m.;35.853465
+Lima;Nike;Hyper Elite Crew;Usinex;40-42;Azul;Socks;S/.20.00;15/07/2015;3:11 p.m.;8.2007
+Lima;Asics;Hera Deux Single Tab;Femenino;38-40;Rosado;Socks;S/.12.99;15/07/2015;3:21 p.m.;5.74695465
+Lima;Asics;MB1878;Masculino;41;Negro;Pants;S/.99.00;15/07/2015;3:47 p.m.;35.853465
+Lima;Nike;Hyper Elite Crew;Usinex;42-44;Azul;Socks;S/.20.00;15/07/2015;3:47 p.m.;8.2007
+Lima;Asics;Quick Light Cushion;Usinex;42-44;Rosado;Socks;S/.19.00;15/07/2015;4:38 p.m.;7.850665
+Lima;Asics;Hera Deux Single Tab;Femenino;38-40;Negro;Socks;S/.12.99;15/07/2015;4:39 p.m.;5.74695465
+Lima;Nike;Pro Hero;Femenino;70D;Amarillo;Bra;S/.99.00;15/07/2015;4:41 p.m.;35.853465
+Lima;Adidas;Rocket Boost;Masculino;43;Multicolor;Shoe;S/.110.00;15/07/2015;5:27 p.m.;39.70385
+Lima;Asics;WB1820;Femenino;45;Verde;Pants;S/.89.00;15/07/2015;8:25 a.m.;32.353115
+Lima;Asics;WB1820;Femenino;37;Negro;Pants;S/.89.00;15/07/2015;8:26 a.m.;32.353115
+Lima;Asics;WB1820;Femenino;37;Rosado;Pants;S/.89.00;15/07/2015;8:38 a.m.;32.353115
+Lima;Nike;Pro Classic;Femenino;70F;Verde;Bra;S/.100.00;15/07/2015;8:41 a.m.;36.2035
+Lima;Asics;WB1820;Femenino;36;Amarillo;Pants;S/.89.00;15/07/2015;8:48 a.m.;32.353115
+Lima;Nike;Free 5.0;Femenino;45;Gris;Shoe;S/.239.00;15/07/2015;10:32 a.m.;84.858365
+Lima;Asics;Hera Deux Single Tab;Femenino;36-38;Azul;Socks;S/.12.99;15/07/2015;10:33 a.m.;5.74695465
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Rosado;Socks;S/.21.00;15/07/2015;11:09 a.m.;8.550735
+Lima;Nike;Dri-Fit No-Show;Usinex;46-48;Negro;Socks;S/.20.00;15/07/2015;12:31 p.m.;8.2007
+Lima;Nike;Pro Hero;Femenino;75D;Rosado;Bra;S/.99.00;15/07/2015;12:43 p.m.;35.853465
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;46-48;Rosado;Socks;S/.21.00;15/07/2015;1:03 p.m.;8.550735
+Lima;Asics;Quick Light Cushion;Usinex;38-40;Verde;Socks;S/.19.00;15/07/2015;1:04 p.m.;7.850665
+Lima;Nike;Free 5.0;Femenino;37;Negro;Shoe;S/.239.00;15/07/2015;1:19 p.m.;84.858365
+Lima;Nike;Free 5.0;Femenino;42;Azul;Shoe;S/.239.00;15/07/2015;2:13 p.m.;84.858365
+Lima;Nike;Hyper Elite Crew;Usinex;42-44;Negro;Socks;S/.20.00;15/07/2015;2:18 p.m.;8.2007
+Lima;Nike;Pro Classic;Femenino;70E;Amarillo;Bra;S/.100.00;15/07/2015;2:28 p.m.;36.2035
+Lima;Asics;WB1820;Femenino;44;Amarillo;Pants;S/.89.00;15/07/2015;2:31 p.m.;32.353115
+Lima;Nike;Free 5.0;Femenino;42;Multicolor;Shoe;S/.239.00;15/07/2015;2:34 p.m.;84.858365
+Lima;Nike;Free 5.0;Femenino;46;Rosado;Shoe;S/.239.00;15/07/2015;2:41 p.m.;84.858365
+Lima;Asics;WB1820;Femenino;44;Negro;Pants;S/.89.00;15/07/2015;2:44 p.m.;32.353115
+Lima;Asics;WB1820;Femenino;36;Rosado;Pants;S/.89.00;15/07/2015;2:48 p.m.;32.353115
+Lima;Asics;MB1878;Masculino;37;Negro;Pants;S/.99.00;15/07/2015;3:02 p.m.;35.853465
+Lima;Asics;MB1878;Masculino;41;Negro;Pants;S/.99.00;15/07/2015;3:14 p.m.;35.853465
+Lima;Nike;Pro Hero;Femenino;70D;Amarillo;Bra;S/.99.00;15/07/2015;3:34 p.m.;35.853465
+Lima;Asics;MB1878;Masculino;41;Negro;Pants;S/.99.00;15/07/2015;4:37 p.m.;35.853465
+Lima;Asics;MB1878;Masculino;39;Negro;Pants;S/.99.00;15/07/2015;4:39 p.m.;35.853465
+Lima;Nike;Free 5.0;Femenino;43;Verde;Shoe;S/.239.00;15/07/2015;4:45 p.m.;84.858365
+Lima;Nike;Free 5.0;Femenino;43;Multicolor;Shoe;S/.239.00;15/07/2015;4:46 p.m.;84.858365
+Lima;Asics;Quick Light Cushion;Usinex;42-44;Verde;Socks;S/.19.00;15/07/2015;5:34 p.m.;7.850665
+Lima;Nike;Dri-Fit No-Show;Usinex;44-46;Rosado;Socks;S/.20.00;15/07/2015;5:55 p.m.;8.2007
+Lima;Asics;Kayano Single Tab;Usinex;44-46;Verde;Socks;S/.24.99;15/07/2015;6:12 p.m.;9.94737465
+Lima;Asics;Quick Light Cushion;Usinex;42-44;Azul;Socks;S/.19.00;15/07/2015;6:33 p.m.;7.850665
+Lima;Nike;Pro Fierce;Femenino;90E;Rosado;Bra;S/.149.00;15/07/2015;6:41 p.m.;53.355215
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Negro;Socks;S/.20.00;15/07/2015;7:00 p.m.;8.2007
+Lima;Asics;WB1820;Femenino;46;Verde;Pants;S/.89.00;15/07/2015;8:21 p.m.;32.353115
+Lima;Nike;Pro Indy;Femenino;85D;Rosado;Bra;S/.123.00;15/07/2015;8:26 p.m.;44.254305
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Azul;Socks;S/.21.00;15/07/2015;8:39 p.m.;8.550735
+Lima;Asics;WB1820;Femenino;43;Amarillo;Pants;S/.89.00;15/07/2015;10:04 p.m.;32.353115
+Lima;Asics;Nimbus 17;Masculino;41;Gris;Shoe;S/.128.00;15/07/2015;10:42 p.m.;46.00448
+Lima;Asics;Quick Light Cushion;Usinex;44-46;Azul;Socks;S/.19.00;15/07/2015;11:28 p.m.;7.850665
+Lima;Adidas;Rocket Boost;Femenino;46;Rosado;Shoe;S/.100.00;15/07/2015;11:38 a.m.;36.2035
+Lima;Adidas;Ultra Boost;Femenino;46;Azul;Shoe;S/.139.00;15/07/2015;2:27 p.m.;49.854865
+Lima;Adidas;Rocket Boost;Femenino;39;Multicolor;Shoe;S/.100.00;15/07/2015;12:26 p.m.;36.2035
+Lima;Adidas;Ultra Boost;Masculino;36;Gris;Shoe;S/.139.00;15/07/2015;9:37 a.m.;49.854865
+Lima;Adidas;Rocket Boost;Masculino;46;Negro;Shoe;S/.110.00;15/07/2015;12:45 p.m.;39.70385
+Lima;Adidas;Boston 5;Masculino;36;Multicolor;Shoe;S/.125.00;15/07/2015;1:08 p.m.;44.954375
+Lima;Adidas;Boston 5;Femenino;36;Negro;Shoe;S/.120.00;15/07/2015;1:59 p.m.;43.2042
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;46-48;Negro;Socks;S/.21.00;16/07/2015;7:46 a.m.;8.550735
+Lima;Asics;Nimbus 17;Masculino;41;Negro;Shoe;S/.128.00;16/07/2015;8:29 a.m.;46.00448
+Lima;Nike;Pro Classic;Femenino;65E;Multicolor;Bra;S/.100.00;16/07/2015;8:45 a.m.;36.2035
+Lima;Asics;MB1878;Masculino;43;Negro;Pants;S/.99.00;16/07/2015;9:01 a.m.;35.853465
+Lima;Nike;Dri-Fit No-Show;Usinex;38-40;Verde;Socks;S/.20.00;16/07/2015;9:36 a.m.;8.2007
+Lima;Asics;WB1820;Femenino;46;Gris;Pants;S/.89.00;16/07/2015;10:19 a.m.;32.353115
+Lima;Nike;Hyper Elite Crew;Usinex;38-40;Negro;Socks;S/.20.00;16/07/2015;10:46 a.m.;8.2007
+Lima;Asics;MB1878;Masculino;40;Negro;Pants;S/.99.00;16/07/2015;11:06 a.m.;35.853465
+Lima;Nike;Air Zoom;Masculino;44;Amarillo;Shoe;S/.220.00;16/07/2015;12:41 p.m.;78.2077
+Lima;Asics;WB2585;Femenino;41;Negro;Pants;S/.99.00;16/07/2015;1:12 p.m.;35.853465
+Lima;Asics;Hera Deux Single Tab;Femenino;36-38;Azul;Socks;S/.12.99;16/07/2015;1:46 p.m.;5.74695465
+Lima;Asics;WB1820;Femenino;44;Multicolor;Pants;S/.89.00;16/07/2015;2:09 p.m.;32.353115
+Lima;Nike;Hyper Elite Crew;Usinex;36-38;Rosado;Socks;S/.20.00;16/07/2015;2:19 p.m.;8.2007
+Lima;Asics;WB1820;Femenino;41;Azul;Pants;S/.89.00;16/07/2015;2:26 p.m.;32.353115
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;36-38;Negro;Socks;S/.21.00;16/07/2015;2:34 p.m.;8.550735
+Lima;Asics;Cummulus 17;Masculino;38;Multicolor;Shoe;S/.159.00;16/07/2015;2:55 p.m.;56.855565
+Lima;Asics;MB1878;Masculino;41;Negro;Pants;S/.99.00;16/07/2015;3:37 p.m.;35.853465
+Lima;Asics;Kayano Single Tab;Usinex;42-44;Verde;Socks;S/.24.99;16/07/2015;4:07 p.m.;9.94737465
+Lima;Nike;Air Zoom;Masculino;38;Azul;Shoe;S/.230.00;16/07/2015;4:12 p.m.;81.70805
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;36-38;Rosado;Socks;S/.21.00;16/07/2015;4:35 p.m.;8.550735
+Lima;Asics;Hera Deux Single Tab;Femenino;36-38;Azul;Socks;S/.12.99;16/07/2015;4:58 p.m.;5.74695465
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;36-38;Azul;Socks;S/.21.00;16/07/2015;5:29 p.m.;8.550735
+Lima;Adidas;Boston 5;Masculino;42;Multicolor;Shoe;S/.125.00;16/07/2015;6:01 p.m.;44.954375
+Lima;Asics;Kayano Single Tab;Usinex;36-38;Verde;Socks;S/.24.99;16/07/2015;6:10 p.m.;9.94737465
+Lima;Nike;Hyper Elite Crew;Usinex;40-42;Rosado;Socks;S/.20.00;16/07/2015;6:10 p.m.;8.2007
+Lima;Asics;WB1820;Femenino;38;Azul;Pants;S/.89.00;16/07/2015;6:18 p.m.;32.353115
+Lima;Asics;Kayano Single Tab;Usinex;44-46;Verde;Socks;S/.24.99;16/07/2015;6:38 p.m.;9.94737465
+Lima;Asics;MB1878;Masculino;41;Negro;Pants;S/.99.00;16/07/2015;6:51 p.m.;35.853465
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;44-46;Verde;Socks;S/.21.00;16/07/2015;6:56 p.m.;8.550735
+Lima;Asics;MB1878;Masculino;43;Negro;Pants;S/.99.00;16/07/2015;7:40 p.m.;35.853465
+Lima;Asics;WB1820;Femenino;40;Rosado;Pants;S/.89.00;16/07/2015;7:52 p.m.;32.353115
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;44-46;Negro;Socks;S/.21.00;16/07/2015;8:32 p.m.;8.550735
+Lima;Asics;MB1878;Masculino;38;Negro;Pants;S/.99.00;16/07/2015;8:35 p.m.;35.853465
+Lima;Asics;Quick Light Cushion;Usinex;46-48;Rosado;Socks;S/.19.00;16/07/2015;8:57 p.m.;7.850665
+Lima;Asics;MB1878;Masculino;37;Negro;Pants;S/.99.00;16/07/2015;9:36 p.m.;35.853465
+Lima;Asics;WB1820;Femenino;39;Amarillo;Pants;S/.89.00;16/07/2015;9:48 p.m.;32.353115
+Lima;Asics;Nimbus 17;Masculino;39;Negro;Shoe;S/.128.00;16/07/2015;10:24 p.m.;46.00448
+Lima;Nike;Dri-Fit No-Show;Usinex;46-48;Rosado;Socks;S/.20.00;16/07/2015;11:39 p.m.;8.2007
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;44-46;Rosado;Socks;S/.21.00;16/07/2015;11:49 p.m.;8.550735
+Lima;Nike;Free 5.0;Femenino;38;Rosado;Shoe;S/.239.00;16/07/2015;9:49 a.m.;84.858365
+Lima;Asics;WB1820;Femenino;41;Rosado;Pants;S/.89.00;16/07/2015;9:50 a.m.;32.353115
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Azul;Socks;S/.21.00;16/07/2015;9:52 a.m.;8.550735
+Lima;Asics;WB1820;Femenino;40;Rosado;Pants;S/.89.00;16/07/2015;10:07 a.m.;32.353115
+Lima;Asics;WB2585;Femenino;46;Negro;Pants;S/.99.00;16/07/2015;10:10 a.m.;35.853465
+Lima;Nike;Pro Hero;Femenino;65D;Verde;Bra;S/.99.00;16/07/2015;10:10 a.m.;35.853465
+Lima;Asics;WB1820;Femenino;37;Multicolor;Pants;S/.89.00;16/07/2015;10:15 a.m.;32.353115
+Lima;Asics;WB1820;Femenino;41;Rosado;Pants;S/.89.00;16/07/2015;10:23 a.m.;32.353115
+Lima;Asics;Hera Deux Single Tab;Femenino;44-46;Azul;Socks;S/.12.99;16/07/2015;10:26 a.m.;5.74695465
+Lima;Nike;Free 5.0;Masculino;45;Multicolor;Shoe;S/.239.00;16/07/2015;11:10 a.m.;84.858365
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;44-46;Negro;Socks;S/.21.00;16/07/2015;11:15 a.m.;8.550735
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;46-48;Azul;Socks;S/.21.00;16/07/2015;11:17 a.m.;8.550735
+Lima;Nike;Air Zoom;Femenino;45;Gris;Shoe;S/.230.00;16/07/2015;11:30 a.m.;81.70805
+Lima;Asics;Cummulus 17;Masculino;39;Amarillo;Shoe;S/.159.00;16/07/2015;11:32 a.m.;56.855565
+Lima;Asics;MB1878;Masculino;36;Negro;Pants;S/.99.00;16/07/2015;11:38 a.m.;35.853465
+Lima;Asics;Hera Deux Single Tab;Femenino;44-46;Verde;Socks;S/.12.99;16/07/2015;11:45 a.m.;5.74695465
+Lima;Nike;Dri-Fit No-Show;Usinex;44-46;Azul;Socks;S/.20.00;16/07/2015;11:58 a.m.;8.2007
+Lima;Nike;Dri-Fit No-Show;Usinex;42-44;Rosado;Socks;S/.20.00;16/07/2015;12:04 p.m.;8.2007
+Lima;Asics;WB1820;Femenino;39;Verde;Pants;S/.89.00;16/07/2015;12:42 p.m.;32.353115
+Lima;Nike;Pro Fierce;Femenino;70D;Azul;Bra;S/.149.00;16/07/2015;12:42 p.m.;53.355215
+Lima;Asics;MB1878;Masculino;42;Negro;Pants;S/.99.00;16/07/2015;12:45 p.m.;35.853465
+Lima;Nike;Free 5.0;Masculino;36;Multicolor;Shoe;S/.239.00;16/07/2015;1:02 p.m.;84.858365
+Lima;Asics;MB1878;Masculino;45;Negro;Pants;S/.99.00;16/07/2015;1:03 p.m.;35.853465
+Lima;Asics;Quick Light Cushion;Usinex;40-42;Azul;Socks;S/.19.00;16/07/2015;1:05 p.m.;7.850665
+Lima;Nike;Pro Fierce;Femenino;75A;Rosado;Bra;S/.149.00;16/07/2015;1:15 p.m.;53.355215
+Lima;Asics;MB1878;Masculino;42;Negro;Pants;S/.99.00;16/07/2015;1:16 p.m.;35.853465
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;46-48;Verde;Socks;S/.21.00;16/07/2015;1:46 p.m.;8.550735
+Lima;Asics;WB1820;Femenino;37;Rosado;Pants;S/.89.00;16/07/2015;2:02 p.m.;32.353115
+Lima;Asics;Hera Deux Single Tab;Femenino;36-38;Azul;Socks;S/.12.99;16/07/2015;2:07 p.m.;5.74695465
+Lima;Nike;Pro Classic;Femenino;75B;Negro;Bra;S/.100.00;16/07/2015;2:09 p.m.;36.2035
+Lima;Nike;Air Zoom;Masculino;44;Gris;Shoe;S/.220.00;16/07/2015;2:17 p.m.;78.2077
+Lima;Nike;Dri-Fit No-Show;Usinex;36-38;Negro;Socks;S/.20.00;16/07/2015;2:30 p.m.;8.2007
+Lima;Asics;WB1820;Femenino;44;Rosado;Pants;S/.89.00;16/07/2015;2:56 p.m.;32.353115
+Lima;Asics;WB2585;Femenino;38;Negro;Pants;S/.99.00;16/07/2015;2:58 p.m.;35.853465
+Lima;Nike;Dri-Fit No-Show;Usinex;44-46;Azul;Socks;S/.20.00;16/07/2015;3:00 p.m.;8.2007
+Lima;Asics;WB1820;Femenino;42;Rosado;Pants;S/.89.00;16/07/2015;3:03 p.m.;32.353115
+Lima;Nike;Pro Hero;Femenino;80D;Multicolor;Bra;S/.99.00;16/07/2015;3:08 p.m.;35.853465
+Lima;Asics;WB1820;Femenino;46;Negro;Pants;S/.89.00;16/07/2015;3:09 p.m.;32.353115
+Lima;Asics;WB1820;Femenino;38;Multicolor;Pants;S/.89.00;16/07/2015;3:14 p.m.;32.353115
+Lima;Nike;Pro Fierce;Femenino;65E;Verde;Bra;S/.149.00;16/07/2015;3:16 p.m.;53.355215
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Rosado;Socks;S/.21.00;16/07/2015;3:29 p.m.;8.550735
+Lima;Nike;Hyper Elite Crew;Usinex;44-46;Azul;Socks;S/.20.00;16/07/2015;3:32 p.m.;8.2007
+Lima;Nike;Hyper Elite Crew;Usinex;44-46;Verde;Socks;S/.20.00;16/07/2015;3:42 p.m.;8.2007
+Lima;Asics;Hera Deux Single Tab;Femenino;46-48;Negro;Socks;S/.12.99;16/07/2015;3:44 p.m.;5.74695465
+Lima;Nike;Hyper Elite Crew;Usinex;42-44;Negro;Socks;S/.20.00;16/07/2015;3:45 p.m.;8.2007
+Lima;Nike;Dri-Fit No-Show;Usinex;46-48;Rosado;Socks;S/.20.00;16/07/2015;3:45 p.m.;8.2007
+Lima;Nike;Free 5.0;Femenino;45;Rosado;Shoe;S/.239.00;16/07/2015;3:52 p.m.;84.858365
+Lima;Nike;Pro Fierce;Femenino;85A;Negro;Bra;S/.149.00;16/07/2015;3:58 p.m.;53.355215
+Lima;Nike;Pro Indy;Femenino;70F;Verde;Bra;S/.123.00;16/07/2015;4:03 p.m.;44.254305
+Lima;Asics;WB1820;Femenino;41;Multicolor;Pants;S/.89.00;16/07/2015;4:08 p.m.;32.353115
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;42-44;Negro;Socks;S/.21.00;16/07/2015;4:26 p.m.;8.550735
+Lima;Nike;Pro Hero;Femenino;85F;Verde;Bra;S/.99.00;16/07/2015;4:26 p.m.;35.853465
+Lima;Asics;WB1820;Femenino;44;Rosado;Pants;S/.89.00;16/07/2015;4:31 p.m.;32.353115
+Lima;Nike;Hyper Elite Crew;Usinex;38-40;Azul;Socks;S/.20.00;16/07/2015;4:34 p.m.;8.2007
+Lima;Nike;Dri-Fit No-Show;Usinex;38-40;Verde;Socks;S/.20.00;16/07/2015;4:49 p.m.;8.2007
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Negro;Socks;S/.21.00;16/07/2015;4:52 p.m.;8.550735
+Lima;Asics;Quick Light Cushion;Usinex;36-38;Negro;Socks;S/.19.00;16/07/2015;4:54 p.m.;7.850665
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Azul;Socks;S/.21.00;16/07/2015;4:56 p.m.;8.550735
+Lima;Asics;Quick Light Cushion;Usinex;46-48;Rosado;Socks;S/.19.00;16/07/2015;4:56 p.m.;7.850665
+Lima;Asics;WB1820;Femenino;46;Amarillo;Pants;S/.89.00;16/07/2015;5:30 p.m.;32.353115
+Lima;Nike;Pro Fierce;Femenino;75D;Amarillo;Bra;S/.149.00;16/07/2015;5:35 p.m.;53.355215
+Lima;Nike;Hyper Elite Crew;Usinex;42-44;Negro;Socks;S/.20.00;16/07/2015;5:42 p.m.;8.2007
+Lima;Nike;Free 5.0;Masculino;44;Azul;Shoe;S/.239.00;16/07/2015;8:28 a.m.;84.858365
+Lima;Asics;Quick Light Cushion;Usinex;36-38;Rosado;Socks;S/.19.00;16/07/2015;8:57 a.m.;7.850665
+Lima;Asics;Nimbus 17;Masculino;44;Gris;Shoe;S/.128.00;16/07/2015;9:30 a.m.;46.00448
+Lima;Nike;Pro Indy;Femenino;65E;Azul;Bra;S/.123.00;16/07/2015;10:29 a.m.;44.254305
+Lima;Nike;Hyper Elite Crew;Usinex;38-40;Rosado;Socks;S/.20.00;16/07/2015;10:45 a.m.;8.2007
+Lima;Asics;WB1820;Femenino;42;Rosado;Pants;S/.89.00;16/07/2015;10:46 a.m.;32.353115
+Lima;Asics;WB1820;Femenino;41;Multicolor;Pants;S/.89.00;16/07/2015;10:50 a.m.;32.353115
+Lima;Asics;Quick Light Cushion;Usinex;38-40;Negro;Socks;S/.19.00;16/07/2015;10:53 a.m.;7.850665
+Lima;Asics;Gel Quantics ;Femenino;46;Azul;Shoe;S/.120.00;16/07/2015;10:59 a.m.;43.2042
+Lima;Nike;Pro Indy;Femenino;70D;Verde;Bra;S/.123.00;16/07/2015;11:00 a.m.;44.254305
+Lima;Asics;WB1820;Femenino;43;Verde;Pants;S/.89.00;16/07/2015;11:11 a.m.;32.353115
+Lima;Asics;Kayano Single Tab;Usinex;46-48;Negro;Socks;S/.24.99;16/07/2015;11:24 a.m.;9.94737465
+Lima;Nike;Pro Fierce;Femenino;75E;Rosado;Bra;S/.149.00;16/07/2015;11:26 a.m.;53.355215
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Negro;Socks;S/.20.00;16/07/2015;11:42 a.m.;8.2007
+Lima;Nike;Pro Fierce;Femenino;65B;Verde;Bra;S/.149.00;16/07/2015;12:15 p.m.;53.355215
+Lima;Asics;WB1820;Femenino;43;Amarillo;Pants;S/.89.00;16/07/2015;12:21 p.m.;32.353115
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Verde;Socks;S/.21.00;16/07/2015;12:31 p.m.;8.550735
+Lima;Nike;Pro Hero;Femenino;80B;Azul;Bra;S/.99.00;16/07/2015;12:57 p.m.;35.853465
+Lima;Asics;MB1878;Masculino;41;Negro;Pants;S/.99.00;16/07/2015;1:55 p.m.;35.853465
+Lima;Asics;WB1820;Femenino;40;Amarillo;Pants;S/.89.00;16/07/2015;3:12 p.m.;32.353115
+Lima;Asics;WB1820;Femenino;46;Multicolor;Pants;S/.89.00;16/07/2015;3:12 p.m.;32.353115
+Lima;Asics;Kayano Single Tab;Usinex;42-44;Azul;Socks;S/.24.99;16/07/2015;3:12 p.m.;9.94737465
+Lima;Asics;Hera Deux Single Tab;Femenino;36-38;Rosado;Socks;S/.12.99;16/07/2015;3:20 p.m.;5.74695465
+Lima;Nike;Dri-Fit No-Show;Usinex;44-46;Rosado;Socks;S/.20.00;16/07/2015;4:29 p.m.;8.2007
+Lima;Asics;WB1820;Femenino;42;Azul;Pants;S/.89.00;16/07/2015;4:45 p.m.;32.353115
+Lima;Asics;Kayano Single Tab;Usinex;40-42;Azul;Socks;S/.24.99;16/07/2015;4:55 p.m.;9.94737465
+Lima;Asics;WB1820;Femenino;43;Gris;Pants;S/.89.00;16/07/2015;5:06 p.m.;32.353115
+Lima;Asics;WB1820;Femenino;44;Rosado;Pants;S/.89.00;16/07/2015;5:08 p.m.;32.353115
+Lima;Nike;Hyper Elite Crew;Usinex;46-48;Rosado;Socks;S/.20.00;16/07/2015;6:10 p.m.;8.2007
+Lima;Nike;Free 5.0;Masculino;39;Azul;Shoe;S/.239.00;16/07/2015;6:21 p.m.;84.858365
+Lima;Asics;Kayano Single Tab;Usinex;38-40;Azul;Socks;S/.24.99;16/07/2015;6:34 p.m.;9.94737465
+Lima;Asics;WB1820;Femenino;41;Rosado;Pants;S/.89.00;16/07/2015;7:35 p.m.;32.353115
+Lima;Nike;Hyper Elite Crew;Usinex;38-40;Azul;Socks;S/.20.00;16/07/2015;7:49 p.m.;8.2007
+Lima;Asics;Cummulus 17;Masculino;40;Negro;Shoe;S/.159.00;16/07/2015;8:11 p.m.;56.855565
+Lima;Nike;Pro Fierce;Femenino;90F;Gris;Bra;S/.149.00;16/07/2015;8:28 p.m.;53.355215
+Lima;Nike;Pro Indy;Femenino;65E;Negro;Bra;S/.123.00;16/07/2015;8:38 p.m.;44.254305
+Lima;Asics;Quick Light Cushion;Usinex;40-42;Negro;Socks;S/.19.00;16/07/2015;9:01 p.m.;7.850665
+Lima;Nike;Hyper Elite Crew;Usinex;44-46;Azul;Socks;S/.20.00;16/07/2015;10:50 p.m.;8.2007
+Lima;Nike;Free 5.0;Femenino;44;Azul;Shoe;S/.239.00;16/07/2015;11:11 p.m.;84.858365
+Lima;Adidas;Boston 5;Masculino;37;Negro;Shoe;S/.125.00;16/07/2015;2:04 p.m.;44.954375
+Lima;Adidas;Rocket Boost;Masculino;39;Amarillo;Shoe;S/.110.00;16/07/2015;11:30 a.m.;39.70385
+Lima;Adidas;Boston 5;Masculino;40;Amarillo;Shoe;S/.125.00;16/07/2015;3:04 p.m.;44.954375
+Lima;Adidas;Rocket Boost;Masculino;43;Negro;Shoe;S/.110.00;16/07/2015;11:58 a.m.;39.70385
+Lima;Adidas;Rocket Boost;Masculino;45;Rosado;Shoe;S/.110.00;16/07/2015;11:10 a.m.;39.70385
+Lima;Adidas;Ultra Boost;Masculino;44;Verde;Shoe;S/.139.00;16/07/2015;11:50 a.m.;49.854865
+Lima;Adidas;Boston 5;Masculino;46;Negro;Shoe;S/.125.00;16/07/2015;3:27 p.m.;44.954375
+Lima;Adidas;Rocket Boost;Masculino;46;Negro;Shoe;S/.110.00;16/07/2015;9:37 a.m.;39.70385
+Lima;Adidas;Rocket Boost;Masculino;39;Amarillo;Shoe;S/.110.00;16/07/2015;11:07 a.m.;39.70385
+Lima;Adidas;Rocket Boost;Femenino;41;Negro;Shoe;S/.100.00;16/07/2015;11:07 a.m.;36.2035
+Lima;Asics;WB1820;Femenino;36;Multicolor;Pants;S/.89.00;17/07/2015;7:32 a.m.;32.353115
+Lima;Asics;MB1878;Masculino;39;Negro;Pants;S/.99.00;17/07/2015;9:10 a.m.;35.853465
+Lima;Asics;Nimbus 17;Masculino;46;Amarillo;Shoe;S/.128.00;17/07/2015;9:48 a.m.;46.00448
+Lima;Asics;MB1878;Masculino;43;Negro;Pants;S/.99.00;17/07/2015;10:32 a.m.;35.853465
+Lima;Asics;Quick Light Cushion;Usinex;36-38;Rosado;Socks;S/.19.00;17/07/2015;10:58 a.m.;7.850665
+Lima;Asics;MB1878;Masculino;38;Negro;Pants;S/.99.00;17/07/2015;11:26 a.m.;35.853465
+Lima;Asics;WB1820;Femenino;46;Rosado;Pants;S/.89.00;17/07/2015;12:07 p.m.;32.353115
+Lima;Asics;WB1820;Femenino;36;Verde;Pants;S/.89.00;17/07/2015;12:21 p.m.;32.353115
+Lima;Asics;Hera Deux Single Tab;Femenino;42-44;Rosado;Socks;S/.12.99;17/07/2015;12:38 p.m.;5.74695465
+Lima;Asics;WB1820;Femenino;37;Azul;Pants;S/.89.00;17/07/2015;12:43 p.m.;32.353115
+Lima;Asics;WB1820;Femenino;46;Gris;Pants;S/.89.00;17/07/2015;1:55 p.m.;32.353115
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;36-38;Verde;Socks;S/.21.00;17/07/2015;1:59 p.m.;8.550735
+Lima;Nike;Dri-Fit No-Show;Usinex;36-38;Rosado;Socks;S/.20.00;17/07/2015;2:11 p.m.;8.2007
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Rosado;Socks;S/.21.00;17/07/2015;2:28 p.m.;8.550735
+Lima;Asics;WB2585;Femenino;37;Negro;Pants;S/.99.00;17/07/2015;2:36 p.m.;35.853465
+Lima;Adidas;Boston 5;Masculino;46;Gris;Shoe;S/.120.00;17/07/2015;3:34 p.m.;43.2042
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Verde;Socks;S/.21.00;17/07/2015;3:37 p.m.;8.550735
+Lima;Nike;Air Zoom;Masculino;44;Gris;Shoe;S/.220.00;17/07/2015;4:40 p.m.;78.2077
+Lima;Asics;MB1878;Masculino;36;Negro;Pants;S/.99.00;17/07/2015;5:54 p.m.;35.853465
+Lima;Asics;WB1820;Femenino;40;Negro;Pants;S/.89.00;17/07/2015;6:00 p.m.;32.353115
+Lima;Asics;WB2585;Femenino;44;Negro;Pants;S/.99.00;17/07/2015;6:12 p.m.;35.853465
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Verde;Socks;S/.21.00;17/07/2015;6:31 p.m.;8.550735
+Lima;Asics;WB1820;Femenino;39;Verde;Pants;S/.89.00;17/07/2015;6:33 p.m.;32.353115
+Lima;Asics;WB1820;Femenino;41;Negro;Pants;S/.89.00;17/07/2015;6:36 p.m.;32.353115
+Lima;Asics;MB1878;Masculino;38;Negro;Pants;S/.99.00;17/07/2015;6:54 p.m.;35.853465
+Lima;Asics;Cummulus 17;Masculino;41;Azul;Shoe;S/.159.00;17/07/2015;7:04 p.m.;56.855565
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;46-48;Verde;Socks;S/.21.00;17/07/2015;7:45 p.m.;8.550735
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Rosado;Socks;S/.21.00;17/07/2015;7:53 p.m.;8.550735
+Lima;Asics;WB1820;Femenino;44;Negro;Pants;S/.89.00;17/07/2015;7:58 p.m.;32.353115
+Lima;Nike;Pro Fierce;Femenino;90F;Rosado;Bra;S/.149.00;17/07/2015;9:15 p.m.;53.355215
+Lima;Nike;Pro Hero;Femenino;65B;Verde;Bra;S/.99.00;17/07/2015;9:20 p.m.;35.853465
+Lima;Asics;Hera Deux Single Tab;Femenino;46-48;Rosado;Socks;S/.12.99;17/07/2015;9:21 p.m.;5.74695465
+Lima;Asics;Quick Light Cushion;Usinex;44-46;Rosado;Socks;S/.19.00;17/07/2015;9:43 p.m.;7.850665
+Lima;Asics;WB1820;Femenino;37;Gris;Pants;S/.89.00;17/07/2015;10:37 p.m.;32.353115
+Lima;Asics;WB1820;Femenino;39;Azul;Pants;S/.89.00;17/07/2015;10:50 p.m.;32.353115
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;44-46;Rosado;Socks;S/.21.00;17/07/2015;11:15 p.m.;8.550735
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;42-44;Negro;Socks;S/.21.00;17/07/2015;11:24 p.m.;8.550735
+Lima;Nike;Air Zoom;Masculino;42;Rosado;Shoe;S/.230.00;17/07/2015;11:31 p.m.;81.70805
+Lima;Asics;WB1820;Femenino;40;Verde;Pants;S/.89.00;17/07/2015;11:32 p.m.;32.353115
+Lima;Nike;Free 5.0;Femenino;39;Amarillo;Shoe;S/.239.00;17/07/2015;9:44 a.m.;84.858365
+Lima;Asics;WB1820;Femenino;36;Azul;Pants;S/.89.00;17/07/2015;9:47 a.m.;32.353115
+Lima;Nike;Pro Fierce;Femenino;80F;Verde;Bra;S/.149.00;17/07/2015;9:47 a.m.;53.355215
+Lima;Asics;WB1820;Femenino;42;Rosado;Pants;S/.89.00;17/07/2015;9:54 a.m.;32.353115
+Lima;Asics;WB2585;Femenino;39;Negro;Pants;S/.99.00;17/07/2015;10:02 a.m.;35.853465
+Lima;Asics;MB1878;Masculino;41;Negro;Pants;S/.99.00;17/07/2015;10:13 a.m.;35.853465
+Lima;Nike;Pro Indy;Femenino;70E;Gris;Bra;S/.123.00;17/07/2015;10:25 a.m.;44.254305
+Lima;Nike;Air Zoom;Masculino;36;Gris;Shoe;S/.220.00;17/07/2015;10:30 a.m.;78.2077
+Lima;Nike;Pro Fierce;Femenino;75A;Negro;Bra;S/.149.00;17/07/2015;10:31 a.m.;53.355215
+Lima;Asics;Quick Light Cushion;Usinex;42-44;Azul;Socks;S/.19.00;17/07/2015;10:31 a.m.;7.850665
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Rosado;Socks;S/.21.00;17/07/2015;10:31 a.m.;8.550735
+Lima;Nike;Free 5.0;Masculino;45;Gris;Shoe;S/.239.00;17/07/2015;10:31 a.m.;84.858365
+Lima;Asics;Kayano Single Tab;Usinex;40-42;Rosado;Socks;S/.24.99;17/07/2015;10:33 a.m.;9.94737465
+Lima;Asics;Quick Light Cushion;Usinex;44-46;Azul;Socks;S/.19.00;17/07/2015;10:41 a.m.;7.850665
+Lima;Asics;WB1820;Femenino;42;Multicolor;Pants;S/.89.00;17/07/2015;10:41 a.m.;32.353115
+Lima;Asics;WB1820;Femenino;41;Negro;Pants;S/.89.00;17/07/2015;10:49 a.m.;32.353115
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;36-38;Verde;Socks;S/.21.00;17/07/2015;10:52 a.m.;8.550735
+Lima;Asics;WB2585;Femenino;36;Negro;Pants;S/.99.00;17/07/2015;10:56 a.m.;35.853465
+Lima;Asics;MB1878;Masculino;36;Negro;Pants;S/.99.00;17/07/2015;11:07 a.m.;35.853465
+Lima;Nike;Free 5.0;Masculino;44;Multicolor;Shoe;S/.239.00;17/07/2015;11:10 a.m.;84.858365
+Lima;Nike;Pro Fierce;Femenino;75F;Azul;Bra;S/.149.00;17/07/2015;11:10 a.m.;53.355215
+Lima;Asics;MB1878;Masculino;38;Negro;Pants;S/.99.00;17/07/2015;11:19 a.m.;35.853465
+Lima;Asics;WB1820;Femenino;38;Negro;Pants;S/.89.00;17/07/2015;11:20 a.m.;32.353115
+Lima;Asics;MB1878;Masculino;41;Negro;Pants;S/.99.00;17/07/2015;11:24 a.m.;35.853465
+Lima;Nike;Pro Fierce;Femenino;65E;Multicolor;Bra;S/.149.00;17/07/2015;11:30 a.m.;53.355215
+Lima;Asics;Nimbus 17;Masculino;42;Gris;Shoe;S/.128.00;17/07/2015;11:45 a.m.;46.00448
+Lima;Asics;WB1820;Femenino;36;Amarillo;Pants;S/.89.00;17/07/2015;11:48 a.m.;32.353115
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Verde;Socks;S/.20.00;17/07/2015;11:56 a.m.;8.2007
+Lima;Asics;Kayano Single Tab;Usinex;44-46;Rosado;Socks;S/.24.99;17/07/2015;12:04 p.m.;9.94737465
+Lima;Asics;WB1820;Femenino;45;Multicolor;Pants;S/.89.00;17/07/2015;12:06 p.m.;32.353115
+Lima;Asics;Kayano Single Tab;Usinex;36-38;Verde;Socks;S/.24.99;17/07/2015;12:31 p.m.;9.94737465
+Lima;Asics;Quick Light Cushion;Usinex;40-42;Negro;Socks;S/.19.00;17/07/2015;12:34 p.m.;7.850665
+Lima;Nike;Air Zoom;Masculino;38;Rosado;Shoe;S/.220.00;17/07/2015;12:39 p.m.;78.2077
+Lima;Asics;WB2585;Femenino;39;Negro;Pants;S/.99.00;17/07/2015;12:40 p.m.;35.853465
+Lima;Asics;Quick Light Cushion;Usinex;36-38;Rosado;Socks;S/.19.00;17/07/2015;12:42 p.m.;7.850665
+Lima;Nike;Pro Hero;Femenino;80A;Negro;Bra;S/.99.00;17/07/2015;12:50 p.m.;35.853465
+Lima;Nike;Dri-Fit No-Show;Usinex;42-44;Negro;Socks;S/.20.00;17/07/2015;1:12 p.m.;8.2007
+Lima;Nike;Hyper Elite Crew;Usinex;38-40;Verde;Socks;S/.20.00;17/07/2015;1:15 p.m.;8.2007
+Lima;Asics;WB1820;Femenino;42;Negro;Pants;S/.89.00;17/07/2015;1:18 p.m.;32.353115
+Lima;Asics;Kayano Single Tab;Usinex;36-38;Azul;Socks;S/.24.99;17/07/2015;1:23 p.m.;9.94737465
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;46-48;Rosado;Socks;S/.21.00;17/07/2015;1:49 p.m.;8.550735
+Lima;Asics;Hera Deux Single Tab;Femenino;38-40;Azul;Socks;S/.12.99;17/07/2015;1:52 p.m.;5.74695465
+Lima;Nike;Free 5.0;Femenino;43;Negro;Shoe;S/.239.00;17/07/2015;2:02 p.m.;84.858365
+Lima;Asics;MB1878;Masculino;39;Negro;Pants;S/.99.00;17/07/2015;2:02 p.m.;35.853465
+Lima;Nike;Pro Hero;Femenino;90D;Azul;Bra;S/.99.00;17/07/2015;2:06 p.m.;35.853465
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;44-46;Azul;Socks;S/.21.00;17/07/2015;2:14 p.m.;8.550735
+Lima;Asics;MB1878;Masculino;38;Negro;Pants;S/.99.00;17/07/2015;2:32 p.m.;35.853465
+Lima;Nike;Pro Classic;Femenino;75F;Azul;Bra;S/.100.00;17/07/2015;2:33 p.m.;36.2035
+Lima;Asics;WB1820;Femenino;37;Verde;Pants;S/.89.00;17/07/2015;2:55 p.m.;32.353115
+Lima;Asics;WB2585;Femenino;41;Negro;Pants;S/.99.00;17/07/2015;2:56 p.m.;35.853465
+Lima;Asics;WB1820;Femenino;43;Gris;Pants;S/.89.00;17/07/2015;3:03 p.m.;32.353115
+Lima;Nike;Free 5.0;Femenino;45;Rosado;Shoe;S/.239.00;17/07/2015;3:13 p.m.;84.858365
+Lima;Asics;Quick Light Cushion;Usinex;42-44;Verde;Socks;S/.19.00;17/07/2015;3:16 p.m.;7.850665
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Negro;Socks;S/.20.00;17/07/2015;3:36 p.m.;8.2007
+Lima;Nike;Air Zoom;Masculino;45;Amarillo;Shoe;S/.220.00;17/07/2015;3:39 p.m.;78.2077
+Lima;Nike;Hyper Elite Crew;Usinex;42-44;Azul;Socks;S/.20.00;17/07/2015;3:54 p.m.;8.2007
+Lima;Asics;WB1820;Femenino;39;Azul;Pants;S/.89.00;17/07/2015;3:58 p.m.;32.353115
+Lima;Asics;Hera Deux Single Tab;Femenino;46-48;Rosado;Socks;S/.12.99;17/07/2015;4:05 p.m.;5.74695465
+Lima;Asics;Cummulus 17;Masculino;38;Gris;Shoe;S/.159.00;17/07/2015;4:12 p.m.;56.855565
+Lima;Nike;Air Zoom;Femenino;43;Amarillo;Shoe;S/.230.00;17/07/2015;4:12 p.m.;81.70805
+Lima;Asics;Cummulus 17;Masculino;41;Negro;Shoe;S/.159.00;17/07/2015;4:20 p.m.;56.855565
+Lima;Asics;WB1820;Femenino;37;Verde;Pants;S/.89.00;17/07/2015;4:36 p.m.;32.353115
+Lima;Nike;Pro Fierce;Femenino;85C;Amarillo;Bra;S/.149.00;17/07/2015;4:39 p.m.;53.355215
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Rosado;Socks;S/.20.00;17/07/2015;4:43 p.m.;8.2007
+Lima;Asics;WB1820;Femenino;46;Verde;Pants;S/.89.00;17/07/2015;4:43 p.m.;32.353115
+Lima;Asics;WB1820;Femenino;44;Gris;Pants;S/.89.00;17/07/2015;4:52 p.m.;32.353115
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Negro;Socks;S/.21.00;17/07/2015;4:57 p.m.;8.550735
+Lima;Nike;Hyper Elite Crew;Usinex;46-48;Negro;Socks;S/.20.00;17/07/2015;4:57 p.m.;8.2007
+Lima;Nike;Dri-Fit No-Show;Usinex;44-46;Verde;Socks;S/.20.00;17/07/2015;4:59 p.m.;8.2007
+Lima;Nike;Free 5.0;Femenino;43;Multicolor;Shoe;S/.239.00;17/07/2015;4:59 p.m.;84.858365
+Lima;Asics;MB1878;Masculino;46;Negro;Pants;S/.99.00;17/07/2015;8:58 a.m.;35.853465
+Lima;Asics;WB1820;Femenino;39;Azul;Pants;S/.89.00;17/07/2015;9:08 a.m.;32.353115
+Lima;Asics;WB1820;Femenino;36;Amarillo;Pants;S/.89.00;17/07/2015;9:54 a.m.;32.353115
+Lima;Nike;Pro Fierce;Femenino;70B;Negro;Bra;S/.149.00;17/07/2015;10:55 a.m.;53.355215
+Lima;Nike;Dri-Fit No-Show;Usinex;46-48;Negro;Socks;S/.20.00;17/07/2015;11:08 a.m.;8.2007
+Lima;Nike;Hyper Elite Crew;Usinex;38-40;Negro;Socks;S/.20.00;17/07/2015;11:51 a.m.;8.2007
+Lima;Nike;Air Zoom;Masculino;44;Gris;Shoe;S/.220.00;17/07/2015;12:24 p.m.;78.2077
+Lima;Nike;Pro Fierce;Femenino;65E;Negro;Bra;S/.149.00;17/07/2015;12:33 p.m.;53.355215
+Lima;Asics;Kayano Single Tab;Usinex;36-38;Verde;Socks;S/.24.99;17/07/2015;12:37 p.m.;9.94737465
+Lima;Asics;WB1820;Femenino;46;Gris;Pants;S/.89.00;17/07/2015;12:48 p.m.;32.353115
+Lima;Nike;Pro Fierce;Femenino;75F;Rosado;Bra;S/.149.00;17/07/2015;1:06 p.m.;53.355215
+Lima;Asics;MB1878;Masculino;38;Negro;Pants;S/.99.00;17/07/2015;2:41 p.m.;35.853465
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;36-38;Azul;Socks;S/.21.00;17/07/2015;2:44 p.m.;8.550735
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;46-48;Negro;Socks;S/.21.00;17/07/2015;3:00 p.m.;8.550735
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Rosado;Socks;S/.20.00;17/07/2015;3:01 p.m.;8.2007
+Lima;Nike;Dri-Fit No-Show;Usinex;38-40;Rosado;Socks;S/.20.00;17/07/2015;3:10 p.m.;8.2007
+Lima;Asics;MB1878;Masculino;38;Negro;Pants;S/.99.00;17/07/2015;3:34 p.m.;35.853465
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;42-44;Rosado;Socks;S/.21.00;17/07/2015;3:51 p.m.;8.550735
+Lima;Nike;Pro Fierce;Femenino;75A;Multicolor;Bra;S/.149.00;17/07/2015;6:02 p.m.;53.355215
+Lima;Nike;Hyper Elite Crew;Usinex;36-38;Negro;Socks;S/.20.00;17/07/2015;6:21 p.m.;8.2007
+Lima;Asics;Cummulus 17;Femenino;44;Gris;Shoe;S/.159.00;17/07/2015;7:27 p.m.;56.855565
+Lima;Asics;WB1820;Femenino;39;Amarillo;Pants;S/.89.00;17/07/2015;7:48 p.m.;32.353115
+Lima;Nike;Hyper Elite Crew;Usinex;40-42;Rosado;Socks;S/.20.00;17/07/2015;7:52 p.m.;8.2007
+Lima;Asics;Kayano Single Tab;Usinex;38-40;Verde;Socks;S/.24.99;17/07/2015;8:19 p.m.;9.94737465
+Lima;Nike;Pro Fierce;Femenino;65F;Azul;Bra;S/.149.00;17/07/2015;9:14 p.m.;53.355215
+Lima;Nike;Dri-Fit No-Show;Usinex;42-44;Negro;Socks;S/.20.00;17/07/2015;9:30 p.m.;8.2007
+Lima;Asics;WB1820;Femenino;44;Amarillo;Pants;S/.89.00;17/07/2015;10:00 p.m.;32.353115
+Lima;Asics;Gel Quantics ;Femenino;41;Verde;Shoe;S/.120.00;17/07/2015;10:20 p.m.;43.2042
+Lima;Nike;Hyper Elite Crew;Usinex;46-48;Rosado;Socks;S/.20.00;17/07/2015;11:13 p.m.;8.2007
+Lima;Adidas;Rocket Boost;Femenino;41;Azul;Shoe;S/.100.00;17/07/2015;12:36 p.m.;36.2035
+Lima;Adidas;Rocket Boost;Femenino;36;Gris;Shoe;S/.100.00;17/07/2015;11:30 a.m.;36.2035
+Lima;Adidas;Rocket Boost;Masculino;43;Negro;Shoe;S/.110.00;17/07/2015;12:24 p.m.;39.70385
+Lima;Adidas;Rocket Boost;Femenino;46;Gris;Shoe;S/.100.00;17/07/2015;3:32 p.m.;36.2035
+Lima;Adidas;Rocket Boost;Masculino;44;Negro;Shoe;S/.110.00;17/07/2015;10:21 a.m.;39.70385
+Lima;Adidas;Boston 5;Femenino;36;Amarillo;Shoe;S/.120.00;17/07/2015;11:35 a.m.;43.2042
+Lima;Adidas;Boston 5;Masculino;41;Azul;Shoe;S/.125.00;17/07/2015;2:50 p.m.;44.954375
+Lima;Adidas;Boston 5;Masculino;43;Gris;Shoe;S/.125.00;17/07/2015;5:27 p.m.;44.954375
+Lima;Adidas;Boston 5;Masculino;39;Rosado;Shoe;S/.125.00;17/07/2015;11:38 a.m.;44.954375
+Lima;Adidas;Ultra Boost;Masculino;41;Azul;Shoe;S/.139.00;17/07/2015;1:49 p.m.;49.854865
+Lima;Adidas;Boston 5;Femenino;42;Multicolor;Shoe;S/.120.00;17/07/2015;2:30 p.m.;43.2042
+Lima;Adidas;Ultra Boost;Masculino;39;Azul;Shoe;S/.139.00;17/07/2015;12:26 p.m.;49.854865
+Lima;Asics;MB1878;Masculino;44;Negro;Pants;S/.99.00;18/07/2015;7:13 a.m.;35.853465
+Lima;Asics;WB2585;Femenino;39;Negro;Pants;S/.99.00;18/07/2015;7:13 a.m.;35.853465
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Azul;Socks;S/.20.00;18/07/2015;7:20 a.m.;8.2007
+Lima;Nike;Pro Fierce;Femenino;75C;Amarillo;Bra;S/.149.00;18/07/2015;7:53 a.m.;53.355215
+Lima;Asics;Hera Deux Single Tab;Femenino;36-38;Verde;Socks;S/.12.99;18/07/2015;7:56 a.m.;5.74695465
+Lima;Asics;WB2585;Femenino;45;Negro;Pants;S/.99.00;18/07/2015;8:16 a.m.;35.853465
+Lima;Asics;WB2585;Femenino;39;Negro;Pants;S/.99.00;18/07/2015;8:44 a.m.;35.853465
+Lima;Asics;MB1878;Masculino;37;Negro;Pants;S/.99.00;18/07/2015;8:49 a.m.;35.853465
+Lima;Asics;Kayano Single Tab;Usinex;40-42;Rosado;Socks;S/.24.99;18/07/2015;8:54 a.m.;9.94737465
+Lima;Nike;Dri-Fit No-Show;Usinex;46-48;Azul;Socks;S/.20.00;18/07/2015;8:55 a.m.;8.2007
+Lima;Nike;Hyper Elite Crew;Usinex;40-42;Azul;Socks;S/.20.00;18/07/2015;9:02 a.m.;8.2007
+Lima;Nike;Air Zoom;Masculino;39;Azul;Shoe;S/.230.00;18/07/2015;9:30 a.m.;81.70805
+Lima;Asics;MB1878;Masculino;41;Negro;Pants;S/.99.00;18/07/2015;9:43 a.m.;35.853465
+Lima;Asics;Kayano Single Tab;Usinex;42-44;Verde;Socks;S/.24.99;18/07/2015;9:44 a.m.;9.94737465
+Lima;Asics;WB1820;Femenino;46;Azul;Pants;S/.89.00;18/07/2015;9:59 a.m.;32.353115
+Lima;Asics;WB1820;Femenino;44;Negro;Pants;S/.89.00;18/07/2015;11:28 a.m.;32.353115
+Lima;Asics;WB1820;Femenino;38;Gris;Pants;S/.89.00;18/07/2015;11:48 a.m.;32.353115
+Lima;Asics;WB1820;Femenino;38;Rosado;Pants;S/.89.00;18/07/2015;11:49 a.m.;32.353115
+Lima;Asics;WB2585;Femenino;44;Negro;Pants;S/.99.00;18/07/2015;12:04 p.m.;35.853465
+Lima;Asics;Kayano Single Tab;Usinex;40-42;Azul;Socks;S/.24.99;18/07/2015;12:10 p.m.;9.94737465
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Verde;Socks;S/.21.00;18/07/2015;12:12 p.m.;8.550735
+Lima;Nike;Air Zoom;Masculino;40;Amarillo;Shoe;S/.230.00;18/07/2015;12:34 p.m.;81.70805
+Lima;Asics;MB1878;Masculino;36;Negro;Pants;S/.99.00;18/07/2015;1:07 p.m.;35.853465
+Lima;Asics;Hera Deux Single Tab;Femenino;44-46;Rosado;Socks;S/.12.99;18/07/2015;1:14 p.m.;5.74695465
+Lima;Asics;MB1878;Masculino;42;Negro;Pants;S/.99.00;18/07/2015;1:17 p.m.;35.853465
+Lima;Nike;Dri-Fit No-Show;Usinex;42-44;Rosado;Socks;S/.20.00;18/07/2015;1:53 p.m.;8.2007
+Lima;Asics;WB2585;Femenino;43;Negro;Pants;S/.99.00;18/07/2015;2:09 p.m.;35.853465
+Lima;Nike;Pro Hero;Femenino;65A;Multicolor;Bra;S/.99.00;18/07/2015;2:49 p.m.;35.853465
+Lima;Adidas;Rocket Boost;Masculino;37;Amarillo;Shoe;S/.100.00;18/07/2015;2:52 p.m.;36.2035
+Lima;Asics;WB1820;Femenino;38;Azul;Pants;S/.89.00;18/07/2015;2:52 p.m.;32.353115
+Lima;Asics;WB1820;Femenino;43;Negro;Pants;S/.89.00;18/07/2015;3:15 p.m.;32.353115
+Lima;Asics;MB1878;Masculino;38;Negro;Pants;S/.99.00;18/07/2015;3:23 p.m.;35.853465
+Lima;Asics;Nimbus 17;Masculino;39;Amarillo;Shoe;S/.128.00;18/07/2015;4:43 p.m.;46.00448
+Lima;Asics;MB1878;Masculino;38;Negro;Pants;S/.99.00;18/07/2015;6:24 p.m.;35.853465
+Lima;Nike;Dri-Fit No-Show;Usinex;42-44;Verde;Socks;S/.20.00;18/07/2015;7:10 p.m.;8.2007
+Lima;Asics;WB2585;Femenino;39;Negro;Pants;S/.99.00;18/07/2015;7:17 p.m.;35.853465
+Lima;Asics;WB1820;Femenino;40;Amarillo;Pants;S/.89.00;18/07/2015;7:35 p.m.;32.353115
+Lima;Asics;WB1820;Femenino;46;Verde;Pants;S/.89.00;18/07/2015;8:16 p.m.;32.353115
+Lima;Nike;Air Zoom;Masculino;42;Rosado;Shoe;S/.230.00;18/07/2015;9:01 p.m.;81.70805
+Lima;Nike;Hyper Elite Crew;Usinex;46-48;Rosado;Socks;S/.20.00;18/07/2015;9:10 p.m.;8.2007
+Lima;Nike;Hyper Elite Crew;Usinex;46-48;Verde;Socks;S/.20.00;18/07/2015;9:34 p.m.;8.2007
+Lima;Asics;Hera Deux Single Tab;Femenino;42-44;Rosado;Socks;S/.12.99;18/07/2015;9:56 p.m.;5.74695465
+Lima;Asics;MB1878;Masculino;43;Negro;Pants;S/.99.00;18/07/2015;10:06 p.m.;35.853465
+Lima;Asics;WB1820;Femenino;41;Azul;Pants;S/.89.00;18/07/2015;10:17 p.m.;32.353115
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;46-48;Rosado;Socks;S/.21.00;18/07/2015;10:32 p.m.;8.550735
+Lima;Asics;Cummulus 17;Masculino;46;Amarillo;Shoe;S/.159.00;18/07/2015;10:33 p.m.;56.855565
+Lima;Nike;Pro Hero;Femenino;75C;Azul;Bra;S/.99.00;18/07/2015;10:37 p.m.;35.853465
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Rosado;Socks;S/.20.00;18/07/2015;11:13 p.m.;8.2007
+Lima;Nike;Dri-Fit No-Show;Usinex;42-44;Negro;Socks;S/.20.00;18/07/2015;11:44 p.m.;8.2007
+Lima;Nike;Dri-Fit No-Show;Usinex;46-48;Rosado;Socks;S/.20.00;18/07/2015;9:32 a.m.;8.2007
+Lima;Nike;Hyper Elite Crew;Usinex;42-44;Verde;Socks;S/.20.00;18/07/2015;9:36 a.m.;8.2007
+Lima;Nike;Dri-Fit No-Show;Usinex;42-44;Verde;Socks;S/.20.00;18/07/2015;9:54 a.m.;8.2007
+Lima;Asics;Kayano Single Tab;Usinex;44-46;Verde;Socks;S/.24.99;18/07/2015;10:03 a.m.;9.94737465
+Lima;Asics;MB1878;Masculino;38;Negro;Pants;S/.99.00;18/07/2015;10:05 a.m.;35.853465
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;42-44;Rosado;Socks;S/.21.00;18/07/2015;10:07 a.m.;8.550735
+Lima;Asics;WB1820;Femenino;43;Amarillo;Pants;S/.89.00;18/07/2015;10:12 a.m.;32.353115
+Lima;Asics;Hera Deux Single Tab;Femenino;46-48;Rosado;Socks;S/.12.99;18/07/2015;10:12 a.m.;5.74695465
+Lima;Nike;Dri-Fit No-Show;Usinex;42-44;Negro;Socks;S/.20.00;18/07/2015;10:23 a.m.;8.2007
+Lima;Asics;Kayano Single Tab;Usinex;36-38;Rosado;Socks;S/.24.99;18/07/2015;10:26 a.m.;9.94737465
+Lima;Nike;Pro Indy;Femenino;65C;Gris;Bra;S/.123.00;18/07/2015;10:31 a.m.;44.254305
+Lima;Nike;Air Zoom;Masculino;44;Multicolor;Shoe;S/.220.00;18/07/2015;10:41 a.m.;78.2077
+Lima;Nike;Free 5.0;Masculino;36;Multicolor;Shoe;S/.239.00;18/07/2015;10:48 a.m.;84.858365
+Lima;Asics;WB1820;Femenino;43;Verde;Pants;S/.89.00;18/07/2015;10:48 a.m.;32.353115
+Lima;Asics;MB1878;Masculino;41;Negro;Pants;S/.99.00;18/07/2015;11:01 a.m.;35.853465
+Lima;Nike;Hyper Elite Crew;Usinex;44-46;Verde;Socks;S/.20.00;18/07/2015;11:01 a.m.;8.2007
+Lima;Asics;Kayano Single Tab;Usinex;36-38;Negro;Socks;S/.24.99;18/07/2015;11:09 a.m.;9.94737465
+Lima;Nike;Free 5.0;Femenino;42;Azul;Shoe;S/.239.00;18/07/2015;11:17 a.m.;84.858365
+Lima;Asics;MB1878;Masculino;41;Negro;Pants;S/.99.00;18/07/2015;12:24 p.m.;35.853465
+Lima;Asics;Hera Deux Single Tab;Femenino;36-38;Azul;Socks;S/.12.99;18/07/2015;12:31 p.m.;5.74695465
+Lima;Asics;Hera Deux Single Tab;Femenino;46-48;Rosado;Socks;S/.12.99;18/07/2015;1:43 p.m.;5.74695465
+Lima;Asics;Quick Light Cushion;Usinex;38-40;Negro;Socks;S/.19.00;18/07/2015;1:46 p.m.;7.850665
+Lima;Asics;WB1820;Femenino;37;Gris;Pants;S/.89.00;18/07/2015;1:49 p.m.;32.353115
+Lima;Asics;WB1820;Femenino;41;Multicolor;Pants;S/.89.00;18/07/2015;2:04 p.m.;32.353115
+Lima;Asics;WB2585;Femenino;45;Negro;Pants;S/.99.00;18/07/2015;2:06 p.m.;35.853465
+Lima;Asics;WB1820;Femenino;41;Amarillo;Pants;S/.89.00;18/07/2015;2:10 p.m.;32.353115
+Lima;Asics;Nimbus 17;Masculino;39;Multicolor;Shoe;S/.128.00;18/07/2015;2:10 p.m.;46.00448
+Lima;Asics;WB1820;Femenino;43;Amarillo;Pants;S/.89.00;18/07/2015;2:17 p.m.;32.353115
+Lima;Asics;Kayano Single Tab;Usinex;38-40;Azul;Socks;S/.24.99;18/07/2015;2:32 p.m.;9.94737465
+Lima;Asics;WB1820;Femenino;37;Azul;Pants;S/.89.00;18/07/2015;2:45 p.m.;32.353115
+Lima;Asics;Cummulus 17;Masculino;40;Azul;Shoe;S/.159.00;18/07/2015;3:00 p.m.;56.855565
+Lima;Asics;Kayano Single Tab;Usinex;40-42;Negro;Socks;S/.24.99;18/07/2015;3:09 p.m.;9.94737465
+Lima;Asics;Cummulus 17;Masculino;44;Rosado;Shoe;S/.159.00;18/07/2015;3:22 p.m.;56.855565
+Lima;Asics;Hera Deux Single Tab;Femenino;36-38;Azul;Socks;S/.12.99;18/07/2015;3:24 p.m.;5.74695465
+Lima;Asics;MB1878;Masculino;42;Negro;Pants;S/.99.00;18/07/2015;3:44 p.m.;35.853465
+Lima;Asics;MB1878;Masculino;42;Negro;Pants;S/.99.00;18/07/2015;3:49 p.m.;35.853465
+Lima;Asics;Kayano Single Tab;Usinex;40-42;Azul;Socks;S/.24.99;18/07/2015;4:52 p.m.;9.94737465
+Lima;Asics;WB1820;Femenino;38;Rosado;Pants;S/.89.00;18/07/2015;4:52 p.m.;32.353115
+Lima;Asics;MB1878;Masculino;44;Negro;Pants;S/.99.00;18/07/2015;5:10 p.m.;35.853465
+Lima;Adidas;Boston 5;Masculino;44;Rosado;Shoe;S/.125.00;18/07/2015;2:09 p.m.;44.954375
+Lima;Adidas;Ultra Boost;Masculino;38;Multicolor;Shoe;S/.139.00;18/07/2015;10:18 a.m.;49.854865
+Lima;Adidas;Rocket Boost;Masculino;44;Negro;Shoe;S/.110.00;18/07/2015;4:31 p.m.;39.70385
+Lima;Adidas;Rocket Boost;Masculino;36;Azul;Shoe;S/.110.00;18/07/2015;5:01 p.m.;39.70385
+Lima;Adidas;Rocket Boost;Masculino;40;Amarillo;Shoe;S/.110.00;18/07/2015;1:13 p.m.;39.70385
+Lima;Adidas;Boston 5;Femenino;40;Azul;Shoe;S/.120.00;18/07/2015;1:31 p.m.;43.2042
+Lima;Adidas;Boston 5;Femenino;40;Multicolor;Shoe;S/.120.00;18/07/2015;4:56 p.m.;43.2042
+Lima;Adidas;Boston 5;Masculino;37;Gris;Shoe;S/.125.00;18/07/2015;5:24 p.m.;44.954375
+Lima;Adidas;Rocket Boost;Masculino;41;Azul;Shoe;S/.110.00;18/07/2015;3:54 p.m.;39.70385
+Lima;Asics;WB1820;Femenino;37;Multicolor;Pants;S/.89.00;19/07/2015;8:05 a.m.;32.353115
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Verde;Socks;S/.20.00;19/07/2015;8:25 a.m.;8.2007
+Lima;Asics;WB1820;Femenino;38;Multicolor;Pants;S/.89.00;19/07/2015;8:35 a.m.;32.353115
+Lima;Asics;Quick Light Cushion;Usinex;46-48;Negro;Socks;S/.19.00;19/07/2015;9:11 a.m.;7.850665
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Azul;Socks;S/.21.00;19/07/2015;9:17 a.m.;8.550735
+Lima;Asics;WB2585;Femenino;43;Negro;Pants;S/.99.00;19/07/2015;10:24 a.m.;35.853465
+Lima;Asics;WB1820;Femenino;40;Gris;Pants;S/.89.00;19/07/2015;11:39 a.m.;32.353115
+Lima;Nike;Dri-Fit No-Show;Usinex;44-46;Rosado;Socks;S/.20.00;19/07/2015;12:34 p.m.;8.2007
+Lima;Asics;WB1820;Femenino;40;Gris;Pants;S/.89.00;19/07/2015;12:40 p.m.;32.353115
+Lima;Asics;Kayano Single Tab;Usinex;44-46;Verde;Socks;S/.24.99;19/07/2015;1:04 p.m.;9.94737465
+Lima;Nike;Pro Fierce;Femenino;80E;Multicolor;Bra;S/.149.00;19/07/2015;1:50 p.m.;53.355215
+Lima;Nike;Pro Fierce;Femenino;80C;Multicolor;Bra;S/.149.00;19/07/2015;2:25 p.m.;53.355215
+Lima;Nike;Dri-Fit No-Show;Usinex;40-42;Negro;Socks;S/.20.00;19/07/2015;2:52 p.m.;8.2007
+Lima;Asics;WB1820;Femenino;46;Negro;Pants;S/.89.00;19/07/2015;2:52 p.m.;32.353115
+Lima;Asics;MB1878;Masculino;43;Negro;Pants;S/.99.00;19/07/2015;3:21 p.m.;35.853465
+Lima;Asics;MB1878;Masculino;41;Negro;Pants;S/.99.00;19/07/2015;3:27 p.m.;35.853465
+Lima;Asics;WB1820;Femenino;45;Verde;Pants;S/.89.00;19/07/2015;4:40 p.m.;32.353115
+Lima;Nike;Dri-Fit No-Show;Usinex;42-44;Azul;Socks;S/.20.00;19/07/2015;5:08 p.m.;8.2007
+Lima;Asics;Kayano Single Tab;Usinex;42-44;Verde;Socks;S/.24.99;19/07/2015;5:09 p.m.;9.94737465
+Lima;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Rosado;Socks;S/.21.00;19/07/2015;5:11 p.m.;8.550735
+Lima;Asics;WB1820;Femenino;39;Rosado;Pants;S/.89.00;19/07/2015;5:19 p.m.;32.353115
+Lima;Asics;MB1878;Masculino;44;Negro;Pants;S/.99.00;19/07/2015;7:30 p.m.;35.853465
+Lima;Asics;WB1820;Femenino;41;Verde;Pants;S/.89.00;19/07/2015;7:49 p.m.;32.353115
+Lima;Asics;Quick Light Cushion;Usinex;40-42;Verde;Socks;S/.19.00;19/07/2015;8:02 p.m.;7.850665
+Lima;Asics;WB1820;Femenino;45;Negro;Pants;S/.89.00;19/07/2015;8:31 p.m.;32.353115
+Lima;Asics;WB1820;Femenino;44;Azul;Pants;S/.89.00;19/07/2015;8:57 p.m.;32.353115
+Lima;Asics;Cummulus 17;Masculino;44;Negro;Shoe;S/.159.00;19/07/2015;9:54 p.m.;56.855565
+Lima;Asics;Hera Deux Single Tab;Femenino;46-48;Negro;Socks;S/.12.99;19/07/2015;9:54 p.m.;5.74695465
+Lima;Asics;WB2585;Femenino;44;Negro;Pants;S/.99.00;19/07/2015;10:16 p.m.;35.853465
+Lima;Asics;Kayano Single Tab;Usinex;42-44;Negro;Socks;S/.24.99;19/07/2015;10:29 p.m.;9.94737465
+Lima;Asics;WB1820;Femenino;45;Gris;Pants;S/.89.00;19/07/2015;11:34 p.m.;32.353115
+Lima;Nike;Dri-Fit No-Show;Usinex;44-46;Negro;Socks;S/.20.00;19/07/2015;11:42 p.m.;8.2007
+Lima;Asics;WB1820;Femenino;45;Negro;Pants;S/.89.00;19/07/2015;11:45 p.m.;32.353115
+Lima;Nike;Pro Classic;Femenino;90F;Amarillo;Bra;S/.100.00;19/07/2015;11:54 p.m.;36.2035
+Lima;Asics;Hera Deux Single Tab;Femenino;38-40;Rosado;Socks;S/.12.99;19/07/2015;9:57 a.m.;5.74695465
+Lima;Asics;Hera Deux Single Tab;Femenino;38-40;Verde;Socks;S/.12.99;19/07/2015;10:00 a.m.;5.74695465
+Lima;Asics;Kayano Single Tab;Usinex;36-38;Rosado;Socks;S/.24.99;19/07/2015;10:02 a.m.;9.94737465
+Lima;Asics;Kayano Single Tab;Usinex;44-46;Verde;Socks;S/.24.99;19/07/2015;10:28 a.m.;9.94737465
+Provincias;Asics;WB1820;Femenino;37;Azul;Pants;S/.89.00;19/07/2015;11:09 a.m.;32.353115
+Provincias;Asics;WB1820;Femenino;36;Amarillo;Pants;S/.89.00;19/07/2015;11:17 a.m.;32.353115
+Provincias;Asics;WB1820;Femenino;36;Amarillo;Pants;S/.89.00;19/07/2015;11:24 a.m.;32.353115
+Provincias;Asics;WB1820;Femenino;41;Gris;Pants;S/.89.00;19/07/2015;12:01 p.m.;32.353115
+Provincias;Asics;MB1878;Masculino;36;Negro;Pants;S/.99.00;19/07/2015;1:13 p.m.;35.853465
+Provincias;Asics;MB1878;Masculino;46;Negro;Pants;S/.99.00;19/07/2015;1:25 p.m.;35.853465
+Provincias;Asics;MB1878;Masculino;40;Negro;Pants;S/.99.00;19/07/2015;1:39 p.m.;35.853465
+Provincias;Asics;MB1878;Masculino;45;Negro;Pants;S/.99.00;19/07/2015;1:41 p.m.;35.853465
+Provincias;Asics;WB1820;Femenino;46;Azul;Pants;S/.89.00;19/07/2015;1:52 p.m.;32.353115
+Provincias;Asics;Quick Light Cushion;Usinex;38-40;Azul;Socks;S/.19.00;19/07/2015;1:56 p.m.;7.850665
+Provincias;Asics;Quick Light Cushion;Usinex;36-38;Azul;Socks;S/.19.00;19/07/2015;1:56 p.m.;7.850665
+Provincias;Asics;Kayano Single Tab;Usinex;44-46;Negro;Socks;S/.24.99;19/07/2015;2:20 p.m.;9.94737465
+Provincias;Asics;WB1820;Femenino;40;Multicolor;Pants;S/.89.00;19/07/2015;2:30 p.m.;32.353115
+Provincias;Asics;Hera Deux Single Tab;Femenino;38-40;Negro;Socks;S/.12.99;19/07/2015;2:48 p.m.;5.74695465
+Provincias;Asics;WB1820;Femenino;43;Gris;Pants;S/.89.00;19/07/2015;3:01 p.m.;32.353115
+Provincias;Asics;MB1878;Masculino;43;Negro;Pants;S/.99.00;19/07/2015;3:03 p.m.;35.853465
+Provincias;Asics;MB1878;Masculino;36;Negro;Pants;S/.99.00;19/07/2015;3:49 p.m.;35.853465
+Provincias;Asics;Cummulus 17;Masculino;43;Verde;Shoe;S/.159.00;19/07/2015;4:16 p.m.;56.855565
+Provincias;Asics;WB1820;Femenino;39;Verde;Pants;S/.89.00;19/07/2015;4:39 p.m.;32.353115
+Provincias;Asics;Kayano Single Tab;Usinex;36-38;Verde;Socks;S/.24.99;19/07/2015;5:12 p.m.;9.94737465
+Provincias;Asics;WB1820;Femenino;41;Rosado;Pants;S/.89.00;19/07/2015;5:22 p.m.;32.353115
+Provincias;Asics;MB1878;Masculino;41;Negro;Pants;S/.99.00;19/07/2015;5:30 p.m.;35.853465
+Provincias;Adidas;Boston 5;Masculino;44;Rosado;Shoe;S/.125.00;19/07/2015;12:09 p.m.;44.954375
+Provincias;Adidas;Boston 5;Masculino;36;Negro;Shoe;S/.125.00;19/07/2015;2:35 p.m.;44.954375
+Provincias;Adidas;Boston 5;Femenino;41;Multicolor;Shoe;S/.120.00;19/07/2015;11:40 a.m.;43.2042
+Provincias;Nike;Hyper Elite Crew;Usinex;36-38;Verde;Socks;S/.20.00;20/07/2015;7:46 a.m.;8.2007
+Provincias;Asics;MB1878;Masculino;41;Negro;Pants;S/.99.00;20/07/2015;7:55 a.m.;35.853465
+Provincias;Asics;Quick Light Cushion;Usinex;42-44;Negro;Socks;S/.19.00;20/07/2015;8:34 a.m.;7.850665
+Provincias;Asics;Kayano Single Tab;Usinex;38-40;Azul;Socks;S/.24.99;20/07/2015;8:49 a.m.;9.94737465
+Provincias;Nike;Pro Hero;Femenino;75C;Rosado;Bra;S/.99.00;20/07/2015;9:18 a.m.;35.853465
+Provincias;Asics;WB1820;Femenino;45;Gris;Pants;S/.89.00;20/07/2015;9:33 a.m.;32.353115
+Provincias;Asics;MB1878;Masculino;39;Negro;Pants;S/.99.00;20/07/2015;10:23 a.m.;35.853465
+Provincias;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;42-44;Azul;Socks;S/.21.00;20/07/2015;11:15 a.m.;8.550735
+Provincias;Asics;WB1820;Femenino;46;Multicolor;Pants;S/.89.00;20/07/2015;11:36 a.m.;32.353115
+Provincias;Asics;MB1878;Masculino;36;Negro;Pants;S/.99.00;20/07/2015;11:41 a.m.;35.853465
+Provincias;Asics;WB1820;Femenino;42;Amarillo;Pants;S/.89.00;20/07/2015;11:47 a.m.;32.353115
+Provincias;Asics;Quick Light Cushion;Usinex;40-42;Azul;Socks;S/.19.00;20/07/2015;1:17 p.m.;7.850665
+Provincias;Asics;WB1820;Femenino;41;Rosado;Pants;S/.89.00;20/07/2015;1:30 p.m.;32.353115
+Provincias;Asics;WB1820;Femenino;41;Rosado;Pants;S/.89.00;20/07/2015;2:03 p.m.;32.353115
+Provincias;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;38-40;Azul;Socks;S/.21.00;20/07/2015;2:22 p.m.;8.550735
+Provincias;Asics;Hera Deux Single Tab;Femenino;46-48;Rosado;Socks;S/.12.99;20/07/2015;2:25 p.m.;5.74695465
+Provincias;Asics;MB1878;Masculino;36;Negro;Pants;S/.99.00;20/07/2015;3:11 p.m.;35.853465
+Provincias;Asics;Quick Light Cushion;Usinex;36-38;Rosado;Socks;S/.19.00;20/07/2015;4:22 p.m.;7.850665
+Provincias;Asics;Kayano Single Tab;Usinex;38-40;Azul;Socks;S/.24.99;20/07/2015;4:35 p.m.;9.94737465
+Provincias;Asics;WB1820;Femenino;42;Gris;Pants;S/.89.00;20/07/2015;4:45 p.m.;32.353115
+Provincias;Asics;Cummulus 17;Masculino;37;Negro;Shoe;S/.159.00;20/07/2015;4:46 p.m.;56.855565
+Provincias;Asics;Nimbus 17;Masculino;44;Azul;Shoe;S/.128.00;20/07/2015;4:50 p.m.;46.00448
+Provincias;Asics;Hera Deux Single Tab;Femenino;44-46;Verde;Socks;S/.12.99;20/07/2015;5:15 p.m.;5.74695465
+Provincias;Asics;MB1878;Masculino;36;Negro;Pants;S/.99.00;20/07/2015;5:31 p.m.;35.853465
+Provincias;Asics;Quick Light Cushion;Usinex;44-46;Azul;Socks;S/.19.00;20/07/2015;5:51 p.m.;7.850665
+Provincias;Asics;Quick Light Cushion;Usinex;38-40;Verde;Socks;S/.19.00;20/07/2015;6:33 p.m.;7.850665
+Provincias;Asics;WB1820;Femenino;45;Multicolor;Pants;S/.89.00;20/07/2015;7:29 p.m.;32.353115
+Provincias;Asics;WB1820;Femenino;40;Amarillo;Pants;S/.89.00;20/07/2015;7:50 p.m.;32.353115
+Provincias;Asics;WB1820;Femenino;44;Negro;Pants;S/.89.00;20/07/2015;7:52 p.m.;32.353115
+Provincias;Asics;MB1878;Masculino;44;Negro;Pants;S/.99.00;20/07/2015;8:15 p.m.;35.853465
+Provincias;Nike;Pro Hero;Femenino;80F;Multicolor;Bra;S/.99.00;20/07/2015;8:48 p.m.;35.853465
+Provincias;Asics;Kayano Single Tab;Usinex;44-46;Negro;Socks;S/.24.99;20/07/2015;10:30 p.m.;9.94737465
+Provincias;Asics;MB1878;Masculino;45;Negro;Pants;S/.99.00;20/07/2015;10:59 p.m.;35.853465
+Provincias;Asics;Kayano Single Tab;Usinex;36-38;Negro;Socks;S/.24.99;20/07/2015;10:00 a.m.;9.94737465
+Provincias;Asics;MB1878;Masculino;37;Negro;Pants;S/.99.00;20/07/2015;10:12 a.m.;35.853465
+Provincias;Asics;WB1820;Femenino;40;Amarillo;Pants;S/.89.00;20/07/2015;10:18 a.m.;32.353115
+Provincias;Asics;Cummulus 17;Masculino;45;Verde;Shoe;S/.159.00;20/07/2015;10:54 a.m.;56.855565
+Provincias;Asics;MB1878;Masculino;44;Negro;Pants;S/.99.00;20/07/2015;11:37 a.m.;35.853465
+Provincias;Asics;WB1820;Femenino;41;Negro;Pants;S/.89.00;20/07/2015;11:56 a.m.;32.353115
+Provincias;Asics;WB1820;Femenino;39;Rosado;Pants;S/.89.00;20/07/2015;12:27 p.m.;32.353115
+Provincias;Asics;Hera Deux Single Tab;Femenino;40-42;Azul;Socks;S/.12.99;20/07/2015;12:39 p.m.;5.74695465
+Provincias;Asics;MB1878;Masculino;40;Negro;Pants;S/.99.00;20/07/2015;1:10 p.m.;35.853465
+Provincias;Asics;WB1820;Femenino;41;Verde;Pants;S/.89.00;20/07/2015;2:12 p.m.;32.353115
+Provincias;Asics;Cummulus 17;Masculino;36;Rosado;Shoe;S/.159.00;20/07/2015;2:24 p.m.;56.855565
+Provincias;Asics;MB1878;Masculino;39;Negro;Pants;S/.99.00;20/07/2015;2:30 p.m.;35.853465
+Provincias;Asics;WB1820;Femenino;42;Rosado;Pants;S/.89.00;20/07/2015;2:46 p.m.;32.353115
+Provincias;Asics;WB2585;Femenino;45;Negro;Pants;S/.99.00;20/07/2015;2:58 p.m.;35.853465
+Provincias;Asics;MB1878;Masculino;41;Negro;Pants;S/.99.00;20/07/2015;3:01 p.m.;35.853465
+Provincias;Asics;WB1820;Femenino;43;Negro;Pants;S/.89.00;20/07/2015;3:08 p.m.;32.353115
+Provincias;Asics;WB1820;Femenino;38;Amarillo;Pants;S/.89.00;20/07/2015;3:22 p.m.;32.353115
+Provincias;Asics;WB1820;Femenino;39;Multicolor;Pants;S/.89.00;20/07/2015;3:26 p.m.;32.353115
+Provincias;Asics;MB1878;Masculino;40;Negro;Pants;S/.99.00;20/07/2015;3:27 p.m.;35.853465
+Provincias;Asics;Kayano Single Tab;Usinex;46-48;Negro;Socks;S/.24.99;20/07/2015;3:39 p.m.;9.94737465
+Provincias;Asics;WB1820;Femenino;37;Verde;Pants;S/.89.00;20/07/2015;3:54 p.m.;32.353115
+Provincias;Asics;Hera Deux Single Tab;Femenino;44-46;Rosado;Socks;S/.12.99;20/07/2015;3:57 p.m.;5.74695465
+Provincias;Asics;WB1820;Femenino;46;Multicolor;Pants;S/.89.00;20/07/2015;4:07 p.m.;32.353115
+Provincias;Asics;WB2585;Femenino;46;Negro;Pants;S/.99.00;20/07/2015;4:31 p.m.;35.853465
+Provincias;Asics;WB1820;Femenino;41;Verde;Pants;S/.89.00;20/07/2015;4:41 p.m.;32.353115
+Provincias;Asics;WB1820;Femenino;45;Gris;Pants;S/.89.00;20/07/2015;5:37 p.m.;32.353115
+Provincias;Adidas;Rocket Boost;Masculino;44;Negro;Shoe;S/.110.00;20/07/2015;12:58 p.m.;39.70385
+Provincias;Adidas;Boston 5;Masculino;44;Negro;Shoe;S/.125.00;20/07/2015;5:25 p.m.;44.954375
+Provincias;Adidas;Rocket Boost;Masculino;46;Amarillo;Shoe;S/.110.00;20/07/2015;5:19 p.m.;39.70385
+Provincias;Asics;MB1878;Masculino;39;Negro;Pants;S/.99.00;21/07/2015;7:19 a.m.;35.853465
+Provincias;Asics;Nimbus 17;Masculino;39;Azul;Shoe;S/.128.00;21/07/2015;7:35 a.m.;46.00448
+Provincias;Asics;MB1878;Masculino;46;Negro;Pants;S/.99.00;21/07/2015;7:45 a.m.;35.853465
+Provincias;Asics;Quick Light Cushion;Usinex;46-48;Verde;Socks;S/.19.00;21/07/2015;7:46 a.m.;7.850665
+Provincias;Nike;Pro Fierce;Femenino;70B;Negro;Bra;S/.149.00;21/07/2015;8:03 a.m.;53.355215
+Provincias;Nike;Dri-Fit No-Show;Usinex;44-46;Rosado;Socks;S/.20.00;21/07/2015;8:16 a.m.;8.2007
+Provincias;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;44-46;Negro;Socks;S/.21.00;21/07/2015;9:31 a.m.;8.550735
+Provincias;Asics;WB1820;Femenino;38;Azul;Pants;S/.89.00;21/07/2015;9:41 a.m.;32.353115
+Provincias;Asics;MB1878;Masculino;46;Negro;Pants;S/.99.00;21/07/2015;9:50 a.m.;35.853465
+Provincias;Nike;Pro Hero;Femenino;80B;Verde;Bra;S/.99.00;21/07/2015;10:30 a.m.;35.853465
+Provincias;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;46-48;Rosado;Socks;S/.21.00;21/07/2015;10:39 a.m.;8.550735
+Provincias;Asics;MB1878;Masculino;38;Negro;Pants;S/.99.00;21/07/2015;10:53 a.m.;35.853465
+Provincias;Asics;Kayano Single Tab;Usinex;46-48;Azul;Socks;S/.24.99;21/07/2015;11:11 a.m.;9.94737465
+Provincias;Nike;Dri-Fit No-Show;Usinex;44-46;Negro;Socks;S/.20.00;21/07/2015;11:35 a.m.;8.2007
+Provincias;Asics;WB2585;Femenino;39;Negro;Pants;S/.99.00;21/07/2015;12:30 p.m.;35.853465
+Provincias;Nike;Pro Hero;Femenino;75A;Multicolor;Bra;S/.99.00;21/07/2015;12:41 p.m.;35.853465
+Provincias;Asics;WB1820;Femenino;40;Rosado;Pants;S/.89.00;21/07/2015;1:13 p.m.;32.353115
+Provincias;Nike;Pro Classic;Femenino;75B;Azul;Bra;S/.100.00;21/07/2015;1:13 p.m.;36.2035
+Provincias;Asics;WB1820;Femenino;38;Gris;Pants;S/.89.00;21/07/2015;1:23 p.m.;32.353115
+Provincias;Nike;Dri-Fit No-Show;Usinex;44-46;Verde;Socks;S/.20.00;21/07/2015;2:32 p.m.;8.2007
+Provincias;Asics;WB1820;Femenino;36;Multicolor;Pants;S/.89.00;21/07/2015;3:20 p.m.;32.353115
+Provincias;Asics;Hera Deux Single Tab;Femenino;36-38;Rosado;Socks;S/.12.99;21/07/2015;4:04 p.m.;5.74695465
+Provincias;Nike;Dri-Fit No-Show;Usinex;42-44;Rosado;Socks;S/.20.00;21/07/2015;5:49 p.m.;8.2007
+Provincias;Asics;MB1878;Masculino;44;Negro;Pants;S/.99.00;21/07/2015;5:51 p.m.;35.853465
+Provincias;Nike;Pro Fierce;Femenino;85A;Amarillo;Bra;S/.149.00;21/07/2015;6:47 p.m.;53.355215
+Provincias;Asics;WB1820;Femenino;45;Azul;Pants;S/.89.00;21/07/2015;6:54 p.m.;32.353115
+Provincias;Nike;Pro Fierce;Femenino;75D;Verde;Bra;S/.149.00;21/07/2015;7:29 p.m.;53.355215
+Provincias;Asics;WB1820;Femenino;44;Amarillo;Pants;S/.89.00;21/07/2015;7:32 p.m.;32.353115
+Provincias;Asics;WB1820;Femenino;39;Negro;Pants;S/.89.00;21/07/2015;7:33 p.m.;32.353115
+Provincias;Nike;Pro Fierce;Femenino;85D;Amarillo;Bra;S/.149.00;21/07/2015;7:43 p.m.;53.355215
+Provincias;Asics;MB1878;Masculino;36;Negro;Pants;S/.99.00;21/07/2015;8:31 p.m.;35.853465
+Provincias;Asics;MB1878;Masculino;40;Negro;Pants;S/.99.00;21/07/2015;8:49 p.m.;35.853465
+Provincias;Nike;Pro Fierce;Femenino;70E;Amarillo;Bra;S/.149.00;21/07/2015;8:58 p.m.;53.355215
+Provincias;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;46-48;Verde;Socks;S/.21.00;21/07/2015;9:10 p.m.;8.550735
+Provincias;Asics;WB1820;Femenino;36;Azul;Pants;S/.89.00;21/07/2015;9:30 p.m.;32.353115
+Provincias;Asics;WB1820;Femenino;41;Gris;Pants;S/.89.00;21/07/2015;9:54 p.m.;32.353115
+Provincias;Asics;Kayano Single Tab;Usinex;40-42;Azul;Socks;S/.24.99;21/07/2015;9:57 p.m.;9.94737465
+Provincias;Asics;WB1820;Femenino;37;Rosado;Pants;S/.89.00;21/07/2015;10:14 p.m.;32.353115
+Provincias;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;44-46;Verde;Socks;S/.21.00;21/07/2015;11:18 p.m.;8.550735
+Provincias;Asics;Hera Deux Single Tab;Femenino;40-42;Verde;Socks;S/.12.99;21/07/2015;11:21 p.m.;5.74695465
+Provincias;Asics;MB1878;Masculino;39;Negro;Pants;S/.99.00;21/07/2015;9:37 a.m.;35.853465
+Provincias;Asics;Quick Light Cushion;Usinex;40-42;Rosado;Socks;S/.19.00;21/07/2015;9:42 a.m.;7.850665
+Provincias;Asics;MB1878;Masculino;36;Negro;Pants;S/.99.00;21/07/2015;9:50 a.m.;35.853465
+Provincias;Asics;WB2585;Femenino;36;Negro;Pants;S/.99.00;21/07/2015;10:05 a.m.;35.853465
+Provincias;Asics;Nimbus 17;Masculino;38;Azul;Shoe;S/.128.00;21/07/2015;10:30 a.m.;46.00448
+Provincias;Asics;WB1820;Femenino;46;Verde;Pants;S/.89.00;21/07/2015;10:36 a.m.;32.353115
+Provincias;Asics;WB1820;Femenino;43;Negro;Pants;S/.89.00;21/07/2015;10:49 a.m.;32.353115
+Provincias;Asics;WB1820;Femenino;36;Multicolor;Pants;S/.89.00;21/07/2015;10:49 a.m.;32.353115
+Provincias;Asics;WB1820;Femenino;42;Multicolor;Pants;S/.89.00;21/07/2015;11:02 a.m.;32.353115
+Provincias;Asics;Quick Light Cushion;Usinex;40-42;Rosado;Socks;S/.19.00;21/07/2015;11:04 a.m.;7.850665
+Provincias;Asics;MB1878;Masculino;38;Negro;Pants;S/.99.00;21/07/2015;11:04 a.m.;35.853465
+Provincias;Asics;WB1820;Femenino;41;Rosado;Pants;S/.89.00;21/07/2015;11:14 a.m.;32.353115
+Provincias;Asics;Kayano Single Tab;Usinex;40-42;Negro;Socks;S/.24.99;21/07/2015;11:24 a.m.;9.94737465
+Provincias;Asics;MB1878;Masculino;36;Negro;Pants;S/.99.00;21/07/2015;11:25 a.m.;35.853465
+Provincias;Asics;WB1820;Femenino;36;Negro;Pants;S/.89.00;21/07/2015;11:38 a.m.;32.353115
+Provincias;Asics;MB1878;Masculino;46;Negro;Pants;S/.99.00;21/07/2015;11:42 a.m.;35.853465
+Provincias;Asics;Nimbus 17;Masculino;43;Multicolor;Shoe;S/.128.00;21/07/2015;11:46 a.m.;46.00448
+Provincias;Asics;MB1878;Masculino;36;Negro;Pants;S/.99.00;21/07/2015;11:53 a.m.;35.853465
+Provincias;Asics;WB1820;Femenino;44;Amarillo;Pants;S/.89.00;21/07/2015;12:24 p.m.;32.353115
+Provincias;Asics;Cummulus 17;Masculino;42;Gris;Shoe;S/.159.00;21/07/2015;12:55 p.m.;56.855565
+Provincias;Asics;WB2585;Femenino;36;Negro;Pants;S/.99.00;21/07/2015;1:13 p.m.;35.853465
+Provincias;Asics;Quick Light Cushion;Usinex;46-48;Negro;Socks;S/.19.00;21/07/2015;1:21 p.m.;7.850665
+Provincias;Asics;MB1878;Masculino;41;Negro;Pants;S/.99.00;21/07/2015;1:28 p.m.;35.853465
+Provincias;Asics;WB1820;Femenino;41;Amarillo;Pants;S/.89.00;21/07/2015;1:34 p.m.;32.353115
+Provincias;Asics;MB1878;Masculino;38;Negro;Pants;S/.99.00;21/07/2015;2:01 p.m.;35.853465
+Provincias;Asics;MB1878;Masculino;41;Negro;Pants;S/.99.00;21/07/2015;2:10 p.m.;35.853465
+Provincias;Asics;Quick Light Cushion;Usinex;40-42;Negro;Socks;S/.19.00;21/07/2015;2:25 p.m.;7.850665
+Provincias;Asics;Quick Light Cushion;Usinex;42-44;Negro;Socks;S/.19.00;21/07/2015;2:30 p.m.;7.850665
+Provincias;Asics;Kayano Single Tab;Usinex;44-46;Rosado;Socks;S/.24.99;21/07/2015;2:56 p.m.;9.94737465
+Provincias;Asics;Hera Deux Single Tab;Femenino;40-42;Azul;Socks;S/.12.99;21/07/2015;2:56 p.m.;5.74695465
+Provincias;Asics;Hera Deux Single Tab;Femenino;42-44;Verde;Socks;S/.12.99;21/07/2015;2:56 p.m.;5.74695465
+Provincias;Asics;WB1820;Femenino;37;Multicolor;Pants;S/.89.00;21/07/2015;3:06 p.m.;32.353115
+Provincias;Asics;Hera Deux Single Tab;Femenino;42-44;Negro;Socks;S/.12.99;21/07/2015;3:32 p.m.;5.74695465
+Provincias;Asics;WB1820;Femenino;45;Azul;Pants;S/.89.00;21/07/2015;3:55 p.m.;32.353115
+Provincias;Asics;WB2585;Femenino;43;Negro;Pants;S/.99.00;21/07/2015;4:31 p.m.;35.853465
+Provincias;Asics;Quick Light Cushion;Usinex;38-40;Azul;Socks;S/.19.00;21/07/2015;4:43 p.m.;7.850665
+Provincias;Asics;WB1820;Femenino;42;Multicolor;Pants;S/.89.00;21/07/2015;4:52 p.m.;32.353115
+Provincias;Asics;WB1820;Femenino;36;Amarillo;Pants;S/.89.00;21/07/2015;5:14 p.m.;32.353115
+Provincias;Asics;WB1820;Femenino;36;Negro;Pants;S/.89.00;21/07/2015;5:28 p.m.;32.353115
+Provincias;Asics;WB1820;Femenino;37;Amarillo;Pants;S/.89.00;21/07/2015;5:35 p.m.;32.353115
+Provincias;Adidas;Ultra Boost;Masculino;41;Azul;Shoe;S/.139.00;21/07/2015;10:46 a.m.;49.854865
+Provincias;Adidas;Boston 5;Femenino;41;Verde;Shoe;S/.120.00;21/07/2015;11:19 a.m.;43.2042
+Provincias;Adidas;Rocket Boost;Femenino;39;Verde;Shoe;S/.100.00;21/07/2015;4:07 p.m.;36.2035
+Provincias;Adidas;Rocket Boost;Masculino;43;Amarillo;Shoe;S/.110.00;21/07/2015;9:40 a.m.;39.70385
+Provincias;Asics;WB1820;Femenino;36;Rosado;Pants;S/.89.00;22/07/2015;7:49 a.m.;32.353115
+Provincias;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Azul;Socks;S/.21.00;22/07/2015;8:36 a.m.;8.550735
+Provincias;Asics;MB1878;Masculino;36;Negro;Pants;S/.99.00;22/07/2015;8:38 a.m.;35.853465
+Provincias;Asics;MB1878;Masculino;44;Negro;Pants;S/.99.00;22/07/2015;8:45 a.m.;35.853465
+Provincias;Asics;WB1820;Femenino;45;Azul;Pants;S/.89.00;22/07/2015;10:33 a.m.;32.353115
+Provincias;Asics;WB1820;Femenino;42;Rosado;Pants;S/.89.00;22/07/2015;11:44 a.m.;32.353115
+Provincias;Asics;Kayano Single Tab;Usinex;36-38;Verde;Socks;S/.24.99;22/07/2015;11:54 a.m.;9.94737465
+Provincias;Asics;WB1820;Femenino;46;Gris;Pants;S/.89.00;22/07/2015;11:58 a.m.;32.353115
+Provincias;Asics;MB1878;Masculino;36;Negro;Pants;S/.99.00;22/07/2015;12:01 p.m.;35.853465
+Provincias;Nike;Dri-Fit No-Show;Usinex;42-44;Rosado;Socks;S/.20.00;22/07/2015;12:02 p.m.;8.2007
+Provincias;Nike;Hyper Elite Crew;Usinex;40-42;Verde;Socks;S/.20.00;22/07/2015;12:57 p.m.;8.2007
+Provincias;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;42-44;Negro;Socks;S/.21.00;22/07/2015;1:22 p.m.;8.550735
+Provincias;Asics;WB1820;Femenino;43;Negro;Pants;S/.89.00;22/07/2015;1:32 p.m.;32.353115
+Provincias;Nike;Pro Fierce;Femenino;85A;Multicolor;Bra;S/.149.00;22/07/2015;2:21 p.m.;53.355215
+Provincias;Asics;WB1820;Femenino;43;Gris;Pants;S/.89.00;22/07/2015;2:28 p.m.;32.353115
+Provincias;Asics;MB1878;Masculino;41;Negro;Pants;S/.99.00;22/07/2015;2:41 p.m.;35.853465
+Provincias;Asics;Hera Deux Single Tab;Femenino;42-44;Rosado;Socks;S/.12.99;22/07/2015;3:24 p.m.;5.74695465
+Provincias;Nike;Pro Classic;Femenino;75E;Gris;Bra;S/.100.00;22/07/2015;4:40 p.m.;36.2035
+Provincias;Asics;Hera Deux Single Tab;Femenino;42-44;Negro;Socks;S/.12.99;22/07/2015;4:52 p.m.;5.74695465
+Provincias;Asics;Kayano Single Tab;Usinex;44-46;Negro;Socks;S/.24.99;22/07/2015;4:58 p.m.;9.94737465
+Provincias;Nike;Dri-Fit No-Show;Usinex;38-40;Rosado;Socks;S/.20.00;22/07/2015;5:41 p.m.;8.2007
+Provincias;Asics;Kayano Single Tab;Usinex;40-42;Verde;Socks;S/.24.99;22/07/2015;5:49 p.m.;9.94737465
+Provincias;Asics;WB1820;Femenino;43;Gris;Pants;S/.89.00;22/07/2015;7:04 p.m.;32.353115
+Provincias;Asics;Kayano Single Tab;Usinex;36-38;Negro;Socks;S/.24.99;22/07/2015;7:35 p.m.;9.94737465
+Provincias;Asics;Quick Light Cushion;Usinex;46-48;Verde;Socks;S/.19.00;22/07/2015;7:46 p.m.;7.850665
+Provincias;Nike;Pro Hero;Femenino;70E;Negro;Bra;S/.99.00;22/07/2015;8:41 p.m.;35.853465
+Provincias;Asics;Kayano Single Tab;Usinex;42-44;Verde;Socks;S/.24.99;22/07/2015;8:44 p.m.;9.94737465
+Provincias;Asics;WB1820;Femenino;46;Amarillo;Pants;S/.89.00;22/07/2015;9:15 p.m.;32.353115
+Provincias;Asics;Kayano Single Tab;Usinex;38-40;Negro;Socks;S/.24.99;22/07/2015;9:27 p.m.;9.94737465
+Provincias;Asics;WB1820;Femenino;46;Negro;Pants;S/.89.00;22/07/2015;9:37 p.m.;32.353115
+Provincias;Asics;WB2585;Femenino;45;Negro;Pants;S/.99.00;22/07/2015;9:38 p.m.;35.853465
+Provincias;Asics;WB1820;Femenino;42;Verde;Pants;S/.89.00;22/07/2015;9:50 p.m.;32.353115
+Provincias;Nike;Nike Elite Match Fit Mercurial Crew;Usinex;40-42;Verde;Socks;S/.21.00;22/07/2015;10:22 p.m.;8.550735
+Provincias;Asics;WB1820;Femenino;37;Amarillo;Pants;S/.89.00;22/07/2015;10:24 p.m.;32.353115
+Provincias;Asics;WB1820;Femenino;43;Rosado;Pants;S/.89.00;22/07/2015;10:40 p.m.;32.353115
+Provincias;Asics;WB1820;Femenino;39;Negro;Pants;S/.89.00;22/07/2015;11:00 p.m.;32.353115
+Provincias;Asics;WB1820;Femenino;43;Rosado;Pants;S/.89.00;22/07/2015;11:06 p.m.;32.353115
+Provincias;Asics;MB1878;Masculino;45;Negro;Pants;S/.99.00;22/07/2015;10:02 a.m.;35.853465
+Provincias;Asics;MB1878;Masculino;37;Negro;Pants;S/.99.00;22/07/2015;11:01 a.m.;35.853465
+Provincias;Asics;Kayano Single Tab;Usinex;46-48;Rosado;Socks;S/.24.99;22/07/2015;11:02 a.m.;9.94737465
+Provincias;Asics;WB1820;Femenino;37;Verde;Pants;S/.89.00;22/07/2015;11:07 a.m.;32.353115
+Provincias;Asics;Cummulus 17;Masculino;42;Rosado;Shoe;S/.159.00;22/07/2015;11:15 a.m.;56.855565
+Provincias;Asics;MB1878;Masculino;44;Negro;Pants;S/.99.00;22/07/2015;11:19 a.m.;35.853465
+Provincias;Asics;WB1820;Femenino;36;Verde;Pants;S/.89.00;22/07/2015;11:50 a.m.;32.353115
+Provincias;Asics;WB1820;Femenino;44;Azul;Pants;S/.89.00;22/07/2015;12:03 p.m.;32.353115
+Provincias;Asics;MB1878;Masculino;43;Negro;Pants;S/.99.00;22/07/2015;12:08 p.m.;35.853465
+Provincias;Asics;WB1820;Femenino;36;Negro;Pants;S/.89.00;22/07/2015;12:37 p.m.;32.353115
+Provincias;Asics;Quick Light Cushion;Usinex;36-38;Verde;Socks;S/.19.00;22/07/2015;12:49 p.m.;7.850665
+Provincias;Asics;MB1878;Masculino;46;Negro;Pants;S/.99.00;22/07/2015;1:00 p.m.;35.853465
+Provincias;Asics;MB1878;Masculino;40;Negro;Pants;S/.99.00;22/07/2015;1:03 p.m.;35.853465
+Provincias;Asics;WB1820;Femenino;43;Azul;Pants;S/.89.00;22/07/2015;1:03 p.m.;32.353115
