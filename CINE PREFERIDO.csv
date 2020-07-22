@@ -1,0 +1,501 @@
+edad;frecuencia_mensual;Genero_peli;Gasto;Numero_acompañantes;Genero;RESIDENCIA;CINE;LUGAR;Calificacion_atencion;Semana;Mejora
+37;1;Romance;80;6;Masculino;La Molina;OTRO;Ubicación;Malo;Domingo;Promociones
+32;4;Suspenso;75;1;Femenino;Barranco;CINEMARK;Buena Atención;Excelente;Martes;Promociones
+51;2;Suspenso;83;1;Femenino;San Borja;OTRO;Calidad de Salas;Excelente;Viernes;Seguridad
+37;4;Ciencia Ficción;77;2;Masculino;Miraflores;CINEMARK;Buena Cartelera;Pésimo;Martes;Puntualidad
+43;6;Terror;72;6;Femenino;Los Olivos;UVK;Amplio Estacionamiento;Excelente;Viernes;Higiene
+75;5;Suspenso;75;1;Femenino;Barranco;UVK;Ubicación;Excelente;Miercoles;Puntualidad
+27;2;Accion y drama;83;2;Masculino;Surco;UVK;Ubicación;Excelente;Viernes;Puntualidad
+38;6;Romance;72;3;Femenino;Surco;CINERAMA;Ubicación;Pésimo;Martes;Puntualidad
+79;14;Romance;43;3;Femenino;Miraflores;CINEMARK;Ubicación;Excelente;Viernes;Puntualidad
+12;5;Suspenso;75;5;Femenino;San Borja;CINEMARK;Calidad de Salas;Excelente;Martes;Horarios
+70;1;Accion y drama;85;5;Femenino;Barranco;CINEMARK;Buenos Precios;Excelente;Martes;Promociones
+76;4;Accion y drama;77;4;Femenino;Miraflores;UVK;Calidad de Salas;Malo;Viernes;Horarios
+54;7;Romance;53;1;Masculino;Barranco;CINEPLANET;Amplio Estacionamiento;Muy Malo;Martes;Horarios
+28;4;Suspenso;77;4;Femenino;Miraflores;UVK;Calidad de Salas;Excelente;Sabado;Comodidad
+76;4;Ciencia Ficción;80;1;Femenino;La Molina;CINEMARK;Calidad de Salas;Excelente;Jueves;Horarios
+82;4;Accion y drama;78;3;Masculino;Surco;CINEMARK;Buenos Precios;Muy Malo;Viernes;Promociones
+20;4;Terror;77;4;Femenino;La Molina;CINEMARK;Amplio Estacionamiento;Muy bueno;Viernes;Puntualidad
+42;4;Suspenso;73;3;Masculino;Los Olivos;UVK;Buena Cartelera;Excelente;Viernes;Higiene
+44;7;Comedia;53;2;Masculino;Miraflores;OTRO;Amplio Estacionamiento;Muy bueno;Martes;Horarios
+38;7;Ciencia Ficción;45;1;Masculino;San Borja;UVK;Buenos Precios;Pésimo;Lunes;Puntualidad
+39;12;Romance;55;3;Femenino;Surco;CINEMARK;Calidad de Salas;Malo;Lunes;Puntualidad
+76;7;Accion y drama;73;6;Femenino;Miraflores;UVK;Ubicación;Excelente;Jueves;Puntualidad
+11;7;Accion y drama;73;4;Masculino;San Juan de Lurigancho;UVK;Calidad de Salas;Regular;Domingo;Puntualidad
+88;1;Dibujos animados;85;5;Masculino;Barranco;CINEPLANET;Ubicación;Malo;Viernes;Horarios
+23;2;Accion y drama;85;4;Femenino;La Molina;CINEMARK;Amplio Estacionamiento;Bueno;Martes;Horarios
+76;12;Accion y drama;55;1;Femenino;San Miguel;CINESTAR;Calidad de Salas;Excelente;Miercoles;Puntualidad
+36;7;Accion y drama;73;4;Femenino;La Molina;CINEMARK;Buena Cartelera;Bueno;Domingo;Comodidad
+43;2;Suspenso;85;1;Femenino;Surco;CINESTAR;Calidad de Salas;Muy Malo;Sabado;Puntualidad
+65;4;Comedia;80;4;Masculino;Barranco;CINEPLANET;Ubicación;Excelente;Viernes;Puntualidad
+81;6;Ciencia Ficción;72;5;Femenino;San Miguel;UVK;Buena Cartelera;Excelente;Martes;Seguridad
+20;12;Terror;55;1;Femenino;La Molina;CINEMARK;Buenos Precios;Muy bueno;Viernes;Horarios
+69;2;Dibujos animados;85;6;Masculino;Miraflores;CINESTAR;Buena Atención;Malo;Domingo;Horarios
+10;4;Romance;77;1;Masculino;Surco;CINERAMA;Buena Cartelera;Muy bueno;Martes;Puntualidad
+40;14;Terror;43;1;Femenino;San Borja;CINEMARK;Amplio Estacionamiento;Muy Malo;Martes;Horarios
+42;6;Suspenso;72;1;Masculino;La Molina;CINERAMA;Calidad de Salas;Pésimo;Domingo;Horarios
+40;2;Romance;83;1;Masculino;San Juan de Lurigancho;CINEMARK;Buena Atención;Bueno;Viernes;Seguridad
+19;28;Dibujos animados;15;3;Femenino;Barranco;CINEMARK;Calidad de Salas;Malo;Martes;Higiene
+68;3;Romance;83;5;Masculino;La Molina;UVK;Calidad de Salas;Excelente;Sabado;Higiene
+21;2;Romance;83;5;Femenino;La Molina;CINEMARK;Buena Atención;Muy bueno;Martes;Puntualidad
+57;7;Terror;53;6;Femenino;Miraflores;CINEMARK;Buena Cartelera;Excelente;Domingo;Puntualidad
+51;11;Accion y drama;58;3;Masculino;La Molina;UVK;Calidad de Salas;Pésimo;Sabado;Puntualidad
+79;4;Suspenso;83;5;Femenino;Surco;CINEPLANET;Buenos Precios;Bueno;Lunes;Seguridad
+41;17;Romance;43;6;Masculino;San Miguel;CINEMARK;Calidad de Salas;Bueno;Domingo;Horarios
+90;12;Ciencia Ficción;55;2;Masculino;Surco;UVK;Amplio Estacionamiento;Muy bueno;Jueves;Puntualidad
+10;4;Suspenso;83;4;Masculino;La Molina;CINEMARK;Buenos Precios;Excelente;Jueves;Precios
+46;4;Dibujos animados;75;6;Femenino;Lince;CINESTAR;Calidad de Salas;Muy bueno;Martes;Precios
+54;5;Accion y drama;75;5;Masculino;La Molina;CINEMARK;Buenos Precios;Muy bueno;Sabado;Precios
+85;6;Romance;72;2;Masculino;Barranco;UVK;Amplio Estacionamiento;Regular;Viernes;Seguridad
+36;8;Comedia;55;1;Femenino;San Borja;CINEPLANET;Ubicación;Muy Malo;Martes;Promociones
+38;28;Terror;13;4;Masculino;San Miguel;UVK;Amplio Estacionamiento;Regular;Viernes;Promociones
+41;8;Accion y drama;55;3;Masculino;Los Olivos;CINESTAR;Buena Atención;Malo;Martes;Precios
+31;13;Dibujos animados;53;5;Masculino;Miraflores;UVK;Ubicación;Muy bueno;Miercoles;Comodidad
+53;9;Comedia;55;5;Femenino;Los Olivos;CINERAMA;Amplio Estacionamiento;Bueno;Viernes;Comodidad
+80;7;Comedia;73;4;Femenino;Lince;CINEMARK;Calidad de Salas;Muy Malo;Martes;Puntualidad
+22;12;Suspenso;55;1;Femenino;Miraflores;CINEPLANET;Calidad de Salas;Pésimo;Martes;Puntualidad
+37;2;Terror;83;4;Masculino;San Borja;CINEPLANET;Buenos Precios;Excelente;Martes;Higiene
+48;7;Accion y drama;53;2;Masculino;Miraflores;CINERAMA;Ubicación;Muy bueno;Viernes;Horarios
+40;3;Romance;83;5;Femenino;San Juan de Lurigancho;CINERAMA;Buenos Precios;Muy bueno;Martes;Higiene
+71;12;Suspenso;55;1;Femenino;Barranco;CINESTAR;Buena Atención;Malo;Domingo;Puntualidad
+83;11;Suspenso;58;1;Femenino;Lince;CINEMARK;Buenos Precios;Malo;Martes;Precios
+29;6;Romance;72;4;Femenino;Barranco;UVK;Buenos Precios;Muy bueno;Jueves;Higiene
+28;9;Dibujos animados;53;4;Femenino;Surco;UVK;Buena Cartelera;Malo;Lunes;Horarios
+49;6;Ciencia Ficción;72;2;Masculino;San Borja;UVK;Calidad de Salas;Malo;Viernes;Promociones
+47;17;Accion y drama;41;3;Femenino;San Miguel;OTRO;Buena Atención;Excelente;Viernes;Puntualidad
+24;14;Suspenso;43;6;Masculino;Los Olivos;UVK;Buena Cartelera;Excelente;Viernes;Precios
+90;4;Accion y drama;77;6;Masculino;San Juan de Lurigancho;CINEMARK;Calidad de Salas;Pésimo;Martes;Puntualidad
+13;4;Romance;77;1;Femenino;La Molina;UVK;Calidad de Salas;Muy bueno;Martes;Comodidad
+35;11;Terror;58;5;Masculino;Surco;CINESTAR;Buena Atención;Bueno;Martes;Horarios
+51;11;Comedia;58;1;Masculino;San Miguel;CINEMARK;Buena Cartelera;Pésimo;Domingo;Puntualidad
+54;28;Suspenso;13;4;Femenino;Lince;CINEPLANET;Amplio Estacionamiento;Muy Malo;Sabado;Precios
+55;5;Suspenso;75;4;Femenino;Surco;CINEPLANET;Amplio Estacionamiento;Bueno;Jueves;Higiene
+23;13;Romance;52;5;Femenino;Barranco;UVK;Buenos Precios;Regular;Viernes;Puntualidad
+23;10;Comedia;51;4;Femenino;Barranco;CINEMARK;Buenos Precios;Excelente;Martes;Seguridad
+29;3;Suspenso;83;1;Femenino;Miraflores;CINEMARK;Amplio Estacionamiento;Regular;Viernes;Comodidad
+38;5;Accion y drama;75;1;Femenino;San Miguel;CINEMARK;Ubicación;Malo;Martes;Puntualidad
+33;2;Comedia;83;3;Femenino;San Borja;OTRO;Buenos Precios;Muy bueno;Domingo;Precios
+51;1;Suspenso;85;5;Masculino;San Miguel;CINERAMA;Calidad de Salas;Muy Malo;Miercoles;Promociones
+12;12;Accion y drama;55;1;Femenino;San Juan de Lurigancho;CINEPLANET;Calidad de Salas;Muy bueno;Martes;Seguridad
+33;4;Romance;75;3;Femenino;La Molina;UVK;Buena Cartelera;Regular;Martes;Puntualidad
+30;1;Ciencia Ficción;85;1;Masculino;San Juan de Lurigancho;UVK;Ubicación;Excelente;Martes;Puntualidad
+23;4;Romance;77;2;Femenino;La Molina;MOVIETIME;Buena Cartelera;Bueno;Sabado;Precios
+71;16;Dibujos animados;45;1;Femenino;San Juan de Lurigancho;CINEMARK;Buena Atención;Muy Malo;Lunes;Horarios
+45;24;Accion y drama;25;1;Masculino;Surco;CINEMARK;Buena Cartelera;Pésimo;Martes;Comodidad
+11;1;Comedia;85;4;Femenino;Miraflores;UVK;Calidad de Salas;Malo;Viernes;Precios
+33;24;Accion y drama;22;5;Masculino;San Borja;CINEMARK;Ubicación;Muy bueno;Domingo;Promociones
+31;1;Suspenso;85;1;Femenino;Surco;OTRO;Calidad de Salas;Muy Malo;Sabado;Horarios
+88;13;Suspenso;52;3;Femenino;Barranco;CINEMARK;Buena Cartelera;Excelente;Jueves;Promociones
+30;11;Comedia;58;1;Femenino;Lince;CINEMARK;Ubicación;Excelente;Sabado;Horarios
+83;8;Comedia;55;4;Femenino;Lince;MOVIETIME;Buena Cartelera;Muy bueno;Viernes;Higiene
+40;2;Comedia;83;1;Femenino;Barranco;UVK;Calidad de Salas;Excelente;Viernes;Puntualidad
+71;12;Terror;55;4;Femenino;San Juan de Lurigancho;MOVIETIME;Amplio Estacionamiento;Muy bueno;Martes;Horarios
+23;2;Accion y drama;83;1;Femenino;Lince;UVK;Buena Cartelera;Excelente;Domingo;Seguridad
+79;9;Dibujos animados;53;4;Femenino;La Molina;CINESTAR;Buena Cartelera;Pésimo;Sabado;Puntualidad
+79;7;Terror;53;6;Femenino;San Juan de Lurigancho;CINEMARK;Buena Cartelera;Muy bueno;Viernes;Seguridad
+38;13;Dibujos animados;52;6;Masculino;La Molina;CINEMARK;Buena Atención;Pésimo;Viernes;Precios
+72;1;Terror;85;3;Femenino;San Borja;CINEMARK;Ubicación;Muy bueno;Domingo;Higiene
+33;10;Accion y drama;51;3;Masculino;Los Olivos;OTRO;Calidad de Salas;Muy bueno;Sabado;Promociones
+82;4;Accion y drama;77;1;Femenino;San Miguel;MOVIETIME;Calidad de Salas;Malo;Martes;Precios
+22;10;Accion y drama;51;2;Femenino;Barranco;UVK;Buenos Precios;Muy bueno;Miercoles;Seguridad
+37;16;Romance;44;4;Femenino;La Molina;MOVIETIME;Buenos Precios;Muy Malo;Martes;Puntualidad
+68;13;Romance;52;6;Femenino;Miraflores;UVK;Ubicación;Regular;Jueves;Puntualidad
+83;6;Comedia;72;3;Femenino;San Juan de Lurigancho;CINEPLANET;Buena Atención;Muy bueno;Viernes;Comodidad
+38;16;Ciencia Ficción;44;1;Femenino;Surco;UVK;Buenos Precios;Muy bueno;Miercoles;Comodidad
+46;7;Dibujos animados;53;1;Masculino;La Molina;CINEMARK;Ubicación;Muy Malo;Viernes;Comodidad
+38;4;Suspenso;77;1;Femenino;Surco;OTRO;Buena Cartelera;Bueno;Sabado;Higiene
+87;6;Suspenso;72;5;Masculino;Miraflores;CINEMARK;Buena Cartelera;Bueno;Viernes;Puntualidad
+39;2;Romance;83;4;Masculino;San Borja;UVK;Calidad de Salas;Muy Malo;Miercoles;Puntualidad
+65;8;Comedia;55;3;Masculino;Miraflores;CINEMARK;Buena Cartelera;Excelente;Lunes;Promociones
+40;13;Dibujos animados;52;3;Femenino;Lince;CINEPLANET;Buenos Precios;Malo;Jueves;Higiene
+13;8;Romance;55;1;Femenino;San Miguel;MOVIETIME;Amplio Estacionamiento;Bueno;Lunes;Promociones
+28;10;Accion y drama;51;1;Femenino;La Molina;OTRO;Amplio Estacionamiento;Malo;Martes;Comodidad
+25;3;Ciencia Ficción;83;1;Masculino;Surco;UVK;Calidad de Salas;Excelente;Miercoles;Higiene
+40;16;Suspenso;44;4;Femenino;San Borja;UVK;Buena Atención;Muy bueno;Viernes;Horarios
+22;12;Accion y drama;55;3;Masculino;San Miguel;UVK;Calidad de Salas;Bueno;Miercoles;Horarios
+39;7;Suspenso;53;1;Masculino;San Borja;CINEMARK;Calidad de Salas;Muy bueno;Sabado;Horarios
+89;28;Terror;13;2;Masculino;Surco;CINEMARK;Amplio Estacionamiento;Muy bueno;Miercoles;Seguridad
+51;13;Dibujos animados;52;1;Femenino;Barranco;CINEMARK;Calidad de Salas;Excelente;Lunes;Promociones
+82;4;Terror;77;1;Masculino;Lince;OTRO;Buenos Precios;Excelente;Domingo;Horarios
+80;2;Ciencia Ficción;83;3;Femenino;Surco;UVK;Calidad de Salas;Muy bueno;Domingo;Precios
+22;4;Romance;77;1;Masculino;Miraflores;CINEPLANET;Amplio Estacionamiento;Bueno;Miercoles;Puntualidad
+40;24;Romance;22;5;Femenino;Surco;UVK;Buena Atención;Pésimo;Martes;Promociones
+57;12;Comedia;55;1;Femenino;La Molina;UVK;Calidad de Salas;Excelente;Sabado;Puntualidad
+14;2;Accion y drama;83;1;Femenino;Lince;UVK;Buena Atención;Malo;Martes;Seguridad
+81;2;Comedia;83;1;Femenino;San Borja;CINEMARK;Ubicación;Excelente;Viernes;Seguridad
+45;11;Comedia;58;3;Femenino;Surco;CINEMARK;Buena Atención;Excelente;Miercoles;Horarios
+38;6;Accion y drama;72;3;Femenino;Surco;MOVIETIME;Amplio Estacionamiento;Muy Malo;Martes;Puntualidad
+39;7;Romance;53;1;Femenino;San Juan de Lurigancho;UVK;Buenos Precios;Muy bueno;Sabado;Promociones
+73;7;Dibujos animados;53;1;Femenino;San Borja;CINEPLANET;Buena Cartelera;Regular;Viernes;Puntualidad
+46;13;Terror;52;1;Femenino;San Juan de Lurigancho;OTRO;Amplio Estacionamiento;Bueno;Martes;Promociones
+23;11;Romance;58;4;Femenino;San Borja;UVK;Amplio Estacionamiento;Bueno;Sabado;Higiene
+55;28;Suspenso;13;1;Masculino;Surco;CINESTAR;Ubicación;Muy Malo;Martes;Comodidad
+30;28;Romance;13;5;Masculino;Surco;CINEMARK;Amplio Estacionamiento;Pésimo;Martes;Comodidad
+38;10;Accion y drama;51;1;Femenino;Surco;UVK;Buena Cartelera;Muy bueno;Domingo;Puntualidad
+11;10;Accion y drama;51;1;Femenino;San Borja;CINEMARK;Ubicación;Excelente;Viernes;Horarios
+55;1;Romance;85;4;Femenino;San Miguel;UVK;Calidad de Salas;Muy Malo;Martes;Promociones
+87;1;Romance;85;1;Masculino;Barranco;CINEMARK;Buena Cartelera;Bueno;Martes;Puntualidad
+13;7;Accion y drama;53;4;Femenino;Lince;UVK;Buena Atención;Malo;Martes;Puntualidad
+27;2;Suspenso;83;2;Masculino;Lince;CINESTAR;Amplio Estacionamiento;Malo;Sabado;Puntualidad
+41;28;Dibujos animados;13;1;Masculino;Miraflores;CINEPLANET;Amplio Estacionamiento;Excelente;Lunes;Puntualidad
+23;8;Ciencia Ficción;55;1;Femenino;San Miguel;CINEMARK;Buena Cartelera;Excelente;Martes;Comodidad
+67;7;Ciencia Ficción;53;3;Femenino;Lince;UVK;Buena Cartelera;Pésimo;Jueves;Precios
+63;13;Romance;52;4;Femenino;San Miguel;CINEPLANET;Buena Atención;Regular;Viernes;Horarios
+29;16;Ciencia Ficción;44;4;Femenino;Surco;CINESTAR;Buenos Precios;Excelente;Sabado;Puntualidad
+88;12;Dibujos animados;55;4;Femenino;Lince;CINEPLANET;Amplio Estacionamiento;Regular;Sabado;Promociones
+79;12;Romance;55;2;Masculino;Surco;CINEMARK;Buenos Precios;Malo;Sabado;Horarios
+33;13;Suspenso;52;1;Masculino;Lince;CINEMARK;Buena Atención;Malo;Martes;Puntualidad
+43;3;Romance;83;3;Femenino;Surco;CINEMARK;Amplio Estacionamiento;Muy bueno;Jueves;Higiene
+60;14;Accion y drama;43;3;Masculino;Barranco;CINEMARK;Calidad de Salas;Malo;Viernes;Puntualidad
+73;28;Romance;13;6;Femenino;Lince;MOVIETIME;Buena Cartelera;Muy bueno;Viernes;Seguridad
+72;6;Romance;72;5;Femenino;Los Olivos;CINEPLANET;Amplio Estacionamiento;Bueno;Sabado;Seguridad
+67;2;Comedia;83;5;Femenino;Los Olivos;UVK;Ubicación;Bueno;Miercoles;Higiene
+54;17;Accion y drama;41;5;Femenino;Barranco;CINESTAR;Amplio Estacionamiento;Regular;Sabado;Promociones
+26;7;Dibujos animados;53;6;Femenino;Surco;CINEMARK;Amplio Estacionamiento;Excelente;Sabado;Seguridad
+30;11;Ciencia Ficción;58;2;Femenino;San Miguel;CINEMARK;Buena Atención;Malo;Miercoles;Seguridad
+41;9;Romance;53;2;Masculino;San Borja;UVK;Amplio Estacionamiento;Malo;Martes;Precios
+33;6;Accion y drama;72;5;Femenino;Surco;MOVIETIME;Calidad de Salas;Muy bueno;Martes;Puntualidad
+41;10;Accion y drama;51;5;Femenino;Surco;CINEPLANET;Buena Cartelera;Muy bueno;Lunes;Promociones
+39;7;Ciencia Ficción;53;4;Femenino;La Molina;CINEPLANET;Calidad de Salas;Muy Malo;Sabado;Comodidad
+42;4;Ciencia Ficción;77;1;Femenino;Surco;CINEMARK;Ubicación;Muy bueno;Viernes;Promociones
+25;12;Accion y drama;55;1;Femenino;La Molina;UVK;Buena Atención;Excelente;Sabado;Horarios
+73;17;Accion y drama;41;3;Femenino;Miraflores;CINEPLANET;Buenos Precios;Muy Malo;Martes;Comodidad
+40;3;Accion y drama;83;4;Femenino;San Borja;CINEMARK;Buena Cartelera;Muy bueno;Martes;Horarios
+14;1;Suspenso;85;5;Femenino;Los Olivos;CINEPLANET;Buenos Precios;Bueno;Viernes;Seguridad
+33;2;Comedia;83;5;Masculino;San Miguel;CINEMARK;Ubicación;Excelente;Martes;Precios
+42;7;Comedia;53;4;Masculino;Miraflores;CINEMARK;Buena Atención;Excelente;Martes;Higiene
+35;10;Suspenso;51;1;Femenino;San Juan de Lurigancho;CINEMARK;Buena Atención;Malo;Martes;Horarios
+35;28;Ciencia Ficción;13;1;Masculino;Surco;UVK;Calidad de Salas;Bueno;Martes;Comodidad
+60;24;Ciencia Ficción;22;2;Masculino;Los Olivos;OTRO;Ubicación;Muy Malo;Martes;Promociones
+32;2;Dibujos animados;83;1;Femenino;Miraflores;UVK;Buenos Precios;Muy Malo;Martes;Higiene
+65;6;Accion y drama;72;3;Femenino;San Miguel;UVK;Calidad de Salas;Muy bueno;Martes;Horarios
+38;24;Suspenso;22;1;Femenino;San Miguel;CINEMARK;Calidad de Salas;Muy bueno;Martes;Promociones
+26;4;Ciencia Ficción;77;2;Masculino;Barranco;OTRO;Buena Atención;Excelente;Martes;Promociones
+12;24;Accion y drama;22;2;Femenino;Lince;OTRO;Ubicación;Excelente;Jueves;Horarios
+69;10;Suspenso;51;5;Femenino;San Miguel;CINESTAR;Buena Atención;Bueno;Viernes;Promociones
+36;3;Ciencia Ficción;83;1;Masculino;San Borja;CINEPLANET;Calidad de Salas;Bueno;Viernes;Seguridad
+71;5;Comedia;75;6;Femenino;Barranco;UVK;Ubicación;Excelente;Martes;Promociones
+40;2;Ciencia Ficción;83;4;Femenino;Lince;CINESTAR;Buena Atención;Excelente;Viernes;Horarios
+40;4;Suspenso;77;6;Femenino;Los Olivos;UVK;Buena Atención;Muy bueno;Martes;Precios
+35;9;Suspenso;53;5;Femenino;Surco;CINEMARK;Buena Atención;Muy bueno;Martes;Horarios
+40;2;Accion y drama;83;1;Femenino;La Molina;UVK;Calidad de Salas;Muy bueno;Jueves;Promociones
+14;6;Dibujos animados;72;1;Femenino;La Molina;CINESTAR;Ubicación;Pésimo;Miercoles;Seguridad
+79;16;Ciencia Ficción;44;5;Masculino;Lince;UVK;Buenos Precios;Excelente;Viernes;Precios
+87;13;Dibujos animados;52;3;Femenino;Lince;UVK;Calidad de Salas;Bueno;Viernes;Precios
+42;7;Comedia;53;5;Femenino;Surco;CINEPLANET;Calidad de Salas;Excelente;Viernes;Promociones
+11;2;Ciencia Ficción;83;6;Masculino;La Molina;CINEMARK;Buenos Precios;Malo;Domingo;Comodidad
+38;7;Accion y drama;53;1;Masculino;San Borja;UVK;Amplio Estacionamiento;Bueno;Lunes;Horarios
+25;13;Ciencia Ficción;52;4;Femenino;San Juan de Lurigancho;UVK;Calidad de Salas;Pésimo;Miercoles;Higiene
+48;2;Suspenso;83;4;Masculino;Barranco;CINEMARK;Buenos Precios;Malo;Jueves;Promociones
+71;10;Romance;51;3;Masculino;Barranco;CINEMARK;Buena Atención;Excelente;Sabado;Comodidad
+69;4;Ciencia Ficción;77;1;Femenino;La Molina;UVK;Buena Cartelera;Excelente;Domingo;Horarios
+57;4;Ciencia Ficción;77;5;Masculino;Surco;CINEPLANET;Ubicación;Muy bueno;Miercoles;Horarios
+68;6;Dibujos animados;72;3;Femenino;San Borja;CINEMARK;Buena Cartelera;Muy bueno;Lunes;Comodidad
+42;17;Romance;41;1;Femenino;Barranco;CINESTAR;Calidad de Salas;Excelente;Martes;Higiene
+42;9;Suspenso;53;1;Femenino;San Borja;CINEMARK;Ubicación;Excelente;Sabado;Higiene
+63;5;Ciencia Ficción;75;1;Femenino;La Molina;UVK;Ubicación;Muy Malo;Miercoles;Promociones
+48;2;Accion y drama;83;1;Masculino;La Molina;CINEPLANET;Amplio Estacionamiento;Regular;Jueves;Horarios
+37;4;Romance;77;1;Femenino;San Borja;MOVIETIME;Calidad de Salas;Muy bueno;Viernes;Puntualidad
+45;3;Romance;83;1;Femenino;Barranco;CINEMARK;Buena Cartelera;Muy bueno;Martes;Comodidad
+38;6;Ciencia Ficción;72;3;Femenino;San Juan de Lurigancho;CINEPLANET;Calidad de Salas;Pésimo;Sabado;Precios
+24;7;Dibujos animados;53;5;Masculino;Surco;CINEMARK;Buenos Precios;Bueno;Martes;Precios
+42;16;Dibujos animados;44;2;Femenino;San Miguel;MOVIETIME;Calidad de Salas;Excelente;Martes;Puntualidad
+27;2;Romance;83;0;Masculino;Miraflores;CINEPLANET;Amplio Estacionamiento;Muy bueno;Viernes;Seguridad
+30;25;Romance;13;1;Masculino;San Borja;UVK;Amplio Estacionamiento;Bueno;Martes;Horarios
+40;28;Ciencia Ficción;13;3;Femenino;San Juan de Lurigancho;UVK;Buena Cartelera;Bueno;Viernes;Horarios
+80;17;Comedia;41;1;Masculino;San Juan de Lurigancho;MOVIETIME;Buena Cartelera;Muy Malo;Martes;Seguridad
+60;11;Ciencia Ficción;58;5;Femenino;Miraflores;CINESTAR;Calidad de Salas;Muy bueno;Viernes;Precios
+61;1;Dibujos animados;85;1;Femenino;San Juan de Lurigancho;CINEMARK;Amplio Estacionamiento;Excelente;Domingo;Puntualidad
+68;7;Romance;53;3;Femenino;San Borja;UVK;Ubicación;Excelente;Jueves;Promociones
+29;1;Comedia;85;1;Masculino;Barranco;CINESTAR;Buenos Precios;Muy bueno;Lunes;Puntualidad
+25;13;Accion y drama;52;1;Femenino;San Borja;CINESTAR;Amplio Estacionamiento;Muy bueno;Sabado;Seguridad
+77;9;Romance;53;3;Masculino;Barranco;UVK;Buena Cartelera;Regular;Martes;Puntualidad
+36;2;Ciencia Ficción;83;5;Femenino;Surco;UVK;Calidad de Salas;Bueno;Martes;Horarios
+71;2;Dibujos animados;83;5;Femenino;Miraflores;CINEMARK;Calidad de Salas;Regular;Martes;Horarios
+51;14;Accion y drama;43;3;Femenino;San Borja;CINEPÓLIS;Calidad de Salas;Pésimo;Domingo;Precios
+30;13;Romance;52;3;Masculino;Surco;CINEMARK;Buenos Precios;Muy Malo;Martes;Puntualidad
+76;2;Comedia;83;4;Masculino;Lince;CINEPLANET;Amplio Estacionamiento;Malo;Martes;Promociones
+76;1;Romance;85;3;Masculino;Miraflores;CINEPLANET;Buena Cartelera;Excelente;Viernes;Precios
+14;30;Romance;14;2;Femenino;San Juan de Lurigancho;CINEPLANET;Buena Cartelera;Malo;Martes;Puntualidad
+55;4;Ciencia Ficción;77;4;Femenino;San Juan de Lurigancho;CINEPLANET;Buenos Precios;Excelente;Viernes;Horarios
+49;3;Romance;83;3;Femenino;La Molina;CINESTAR;Amplio Estacionamiento;Malo;Sabado;Comodidad
+43;2;Suspenso;83;0;Masculino;Miraflores;UVK;Amplio Estacionamiento;Bueno;Martes;Promociones
+50;4;Suspenso;77;1;Masculino;San Miguel;CINESTAR;Ubicación;Bueno;Lunes;Puntualidad
+24;11;Dibujos animados;58;5;Masculino;Miraflores;CINEMARK;Buena Atención;Bueno;Viernes;Horarios
+69;14;Romance;43;0;Masculino;San Miguel;CINESTAR;Buena Atención;Muy Malo;Sabado;Horarios
+10;1;Dibujos animados;85;5;Masculino;San Juan de Lurigancho;CINEMARK;Ubicación;Regular;Miercoles;Horarios
+37;16;Romance;44;2;Femenino;La Molina;CINEMARK;Buena Cartelera;Muy Malo;Miercoles;Promociones
+10;1;Suspenso;85;1;Masculino;La Molina;CINESTAR;Amplio Estacionamiento;Pésimo;Jueves;Puntualidad
+50;17;Romance;41;2;Masculino;Barranco;CINESTAR;Calidad de Salas;Muy bueno;Martes;Horarios
+23;8;Comedia;55;2;Femenino;Surco;CINEMARK;Amplio Estacionamiento;Muy Malo;Martes;Comodidad
+77;11;Ciencia Ficción;58;4;Masculino;Miraflores;CINEMARK;Buena Cartelera;Excelente;Miercoles;Horarios
+49;7;Suspenso;53;4;Masculino;Los Olivos;CINEPLANET;Buenos Precios;Muy bueno;Martes;Puntualidad
+88;14;Romance;43;4;Femenino;Barranco;CINEMARK;Ubicación;Muy bueno;Jueves;Horarios
+36;2;Accion y drama;83;2;Femenino;Surco;UVK;Buena Atención;Muy Malo;Jueves;Precios
+37;5;Suspenso;75;5;Masculino;San Borja;CINEPLANET;Amplio Estacionamiento;Muy bueno;Sabado;Comodidad
+75;16;Comedia;44;2;Masculino;Miraflores;CINEPÓLIS;Buenos Precios;Malo;Martes;Comodidad
+39;2;Dibujos animados;83;3;Femenino;Surco;CINESTAR;Amplio Estacionamiento;Bueno;Sabado;Comodidad
+72;5;Romance;75;3;Masculino;La Molina;CINESTAR;Calidad de Salas;Pésimo;Jueves;Promociones
+32;11;Accion y drama;58;1;Femenino;La Molina;UVK;Buena Atención;Muy bueno;Miercoles;Puntualidad
+40;5;Comedia;75;1;Masculino;La Molina;CINEPÓLIS;Buenos Precios;Malo;Miercoles;Precios
+73;5;Ciencia Ficción;75;4;Masculino;Los Olivos;CINEPLANET;Buenos Precios;Excelente;Lunes;Promociones
+68;2;Dibujos animados;83;1;Masculino;Surco;CINEMARK;Calidad de Salas;Muy bueno;Sabado;Higiene
+36;2;Ciencia Ficción;85;5;Femenino;La Molina;CINEMARK;Calidad de Salas;Excelente;Martes;Seguridad
+83;2;Romance;83;1;Masculino;Surco;CINESTAR;Buena Atención;Malo;Viernes;Puntualidad
+28;5;Dibujos animados;75;4;Masculino;Surco;CINESTAR;Ubicación;Muy bueno;Miercoles;Horarios
+28;2;Dibujos animados;83;6;Femenino;San Borja;CINEPLANET;Calidad de Salas;Malo;Viernes;Puntualidad
+22;4;Dibujos animados;83;4;Masculino;Los Olivos;UVK;Buena Cartelera;Pésimo;Martes;Seguridad
+67;8;Comedia;55;4;Masculino;Surco;CINESTAR;Amplio Estacionamiento;Bueno;Miercoles;Puntualidad
+82;1;Ciencia Ficción;85;1;Femenino;Barranco;CINEPLANET;Ubicación;Excelente;Sabado;Seguridad
+40;2;Comedia;83;1;Femenino;San Juan de Lurigancho;CINESTAR;Buena Atención;Regular;Martes;Precios
+39;2;Suspenso;83;3;Femenino;Los Olivos;CINEMARK;Buena Atención;Bueno;Martes;Seguridad
+71;1;Dibujos animados;85;4;Masculino;Surco;CINEMARK;Buena Atención;Muy Malo;Domingo;Horarios
+11;11;Accion y drama;58;1;Masculino;La Molina;CINESTAR;Buena Atención;Malo;Sabado;Promociones
+36;8;Comedia;55;4;Femenino;Los Olivos;UVK;Amplio Estacionamiento;Muy bueno;Viernes;Puntualidad
+47;7;Romance;53;2;Masculino;Surco;UVK;Calidad de Salas;Muy bueno;Viernes;Horarios
+40;27;Comedia;13;5;Femenino;Miraflores;CINEPÓLIS;Calidad de Salas;Malo;Jueves;Promociones
+24;2;Accion y drama;83;4;Femenino;La Molina;UVK;Buenos Precios;Muy bueno;Martes;Comodidad
+25;12;Accion y drama;55;4;Masculino;San Miguel;CINESTAR;Buena Cartelera;Pésimo;Jueves;Comodidad
+46;1;Comedia;85;1;Masculino;San Miguel;CINEMARK;Buenos Precios;Malo;Martes;Puntualidad
+11;2;Dibujos animados;83;6;Femenino;Surco;CINEPLANET;Buena Atención;Muy bueno;Sabado;Comodidad
+22;7;Suspenso;53;6;Femenino;Barranco;CINEMARK;Buena Atención;Muy bueno;Jueves;Precios
+38;11;Accion y drama;58;2;Femenino;Los Olivos;UVK;Buena Atención;Muy bueno;Martes;Promociones
+35;1;Accion y drama;85;4;Masculino;La Molina;CINEMARK;Calidad de Salas;Muy bueno;Viernes;Horarios
+35;5;Ciencia Ficción;75;1;Femenino;Barranco;CINEMARK;Ubicación;Muy bueno;Viernes;Promociones
+50;2;Comedia;83;1;Femenino;Miraflores;CINEMARK;Buena Cartelera;Regular;Martes;Horarios
+40;5;Suspenso;75;2;Femenino;Lince;CINEMARK;Calidad de Salas;Excelente;Martes;Horarios
+43;9;Romance;53;1;Femenino;San Miguel;CINEPÓLIS;Calidad de Salas;Muy bueno;Miercoles;Seguridad
+33;10;Accion y drama;51;1;Masculino;La Molina;CINEMARK;Buena Atención;Regular;Miercoles;Seguridad
+34;16;Accion y drama;44;1;Femenino;Los Olivos;CINEMARK;Buena Atención;Excelente;Miercoles;Promociones
+32;4;Comedia;83;2;Femenino;San Borja;CINEMARK;Buena Atención;Bueno;Martes;Puntualidad
+54;14;Comedia;43;6;Masculino;San Miguel;UVK;Buena Cartelera;Regular;Viernes;Precios
+72;5;Accion y drama;75;1;Femenino;San Borja;CINEMARK;Buena Atención;Regular;Domingo;Puntualidad
+87;2;Romance;83;2;Masculino;Surco;CINEPÓLIS;Calidad de Salas;Excelente;Viernes;Higiene
+40;27;Dibujos animados;12;4;Masculino;San Miguel;CINESTAR;Amplio Estacionamiento;Excelente;Lunes;Seguridad
+13;1;Romance;85;3;Femenino;Surco;CINERAMA;Buena Atención;Muy Malo;Jueves;Horarios
+34;2;Suspenso;83;2;Femenino;Surco;CINESTAR;Buenos Precios;Excelente;Domingo;Precios
+89;2;Dibujos animados;83;5;Femenino;Miraflores;CINEPLANET;Buena Cartelera;Malo;Martes;Higiene
+23;8;Ciencia Ficción;55;1;Femenino;San Borja;CINESTAR;Amplio Estacionamiento;Muy bueno;Domingo;Precios
+49;7;Suspenso;53;1;Masculino;Surco;CINEMARK;Buena Atención;Excelente;Domingo;Seguridad
+82;4;Dibujos animados;77;2;Femenino;San Juan de Lurigancho;CINEMARK;Buenos Precios;Regular;Martes;Puntualidad
+38;6;Ciencia Ficción;72;1;Femenino;Barranco;CINERAMA;Buenos Precios;Excelente;Martes;Puntualidad
+40;16;Comedia;44;3;Femenino;San Miguel;UVK;Buenos Precios;Muy Malo;Viernes;Comodidad
+20;17;Romance;41;5;Femenino;La Molina;CINEMARK;Ubicación;Bueno;Viernes;Comodidad
+38;1;Ciencia Ficción;85;4;Femenino;Lince;CINEPLANET;Amplio Estacionamiento;Muy bueno;Sabado;Promociones
+25;4;Dibujos animados;77;4;Masculino;La Molina;CINEPLANET;Calidad de Salas;Excelente;Martes;Comodidad
+49;7;Suspenso;53;1;Femenino;Los Olivos;CINEMARK;Buenos Precios;Pésimo;Martes;Seguridad
+31;1;Suspenso;85;1;Masculino;San Borja;CINEPLANET;Amplio Estacionamiento;Excelente;Domingo;Seguridad
+36;7;Comedia;53;4;Femenino;Barranco;CINEPLANET;Buenos Precios;Muy bueno;Sabado;Puntualidad
+38;27;Accion y drama;13;3;Femenino;Los Olivos;CINEMARK;Ubicación;Bueno;Martes;Puntualidad
+40;6;Suspenso;72;3;Femenino;Miraflores;UVK;Ubicación;Muy Malo;Martes;Promociones
+77;7;Romance;53;6;Femenino;Miraflores;CINEPLANET;Buena Atención;Muy Malo;Viernes;Seguridad
+38;2;Comedia;83;1;Femenino;San Miguel;UVK;Calidad de Salas;Muy bueno;Viernes;Promociones
+79;1;Ciencia Ficción;85;4;Femenino;San Juan de Lurigancho;CINEMARK;Buena Cartelera;Excelente;Viernes;Puntualidad
+19;1;Ciencia Ficción;85;1;Masculino;Lince;CINEMARK;Buena Atención;Muy bueno;Martes;Precios
+37;13;Dibujos animados;52;4;Masculino;Miraflores;CINESTAR;Amplio Estacionamiento;Excelente;Viernes;Promociones
+70;7;Comedia;53;5;Femenino;San Borja;CINERAMA;Calidad de Salas;Excelente;Miercoles;Puntualidad
+21;27;Accion y drama;13;5;Femenino;Surco;CINESTAR;Buena Atención;Muy Malo;Martes;Horarios
+44;5;Accion y drama;75;4;Masculino;Barranco;CINESTAR;Amplio Estacionamiento;Excelente;Domingo;Horarios
+46;5;Ciencia Ficción;75;1;Femenino;Los Olivos;CINERAMA;Buenos Precios;Regular;Domingo;Puntualidad
+47;2;Comedia;83;1;Femenino;Surco;CINESTAR;Buena Atención;Excelente;Jueves;Horarios
+32;14;Comedia;43;3;Femenino;Barranco;CINESTAR;Calidad de Salas;Pésimo;Viernes;Comodidad
+35;11;Comedia;58;5;Femenino;Surco;CINESTAR;Buena Atención;Muy bueno;Sabado;Horarios
+83;4;Ciencia Ficción;77;5;Masculino;Los Olivos;UVK;Buena Cartelera;Muy Malo;Viernes;Higiene
+34;4;Suspenso;77;2;Femenino;Miraflores;CINESTAR;Buenos Precios;Malo;Jueves;Horarios
+77;30;Accion y drama;14;1;Femenino;Barranco;CINEMARK;Buena Atención;Regular;Martes;Horarios
+38;5;Comedia;75;4;Femenino;Barranco;UVK;Buena Cartelera;Excelente;Lunes;Horarios
+12;3;Romance;83;5;Femenino;San Borja;CINEPLANET;Ubicación;Muy bueno;Sabado;Seguridad
+42;5;Suspenso;75;4;Femenino;San Borja;CINEMARK;Buena Cartelera;Regular;Viernes;Higiene
+68;12;Romance;55;4;Masculino;San Juan de Lurigancho;UVK;Amplio Estacionamiento;Excelente;Miercoles;Puntualidad
+33;2;Comedia;85;2;Femenino;Miraflores;CINEMARK;Buenos Precios;Muy Malo;Sabado;Precios
+30;16;Suspenso;44;1;Femenino;San Juan de Lurigancho;CINEMARK;Buena Cartelera;Malo;Viernes;Puntualidad
+33;16;Comedia;44;6;Femenino;Los Olivos;CINERAMA;Buena Atención;Regular;Domingo;Promociones
+45;11;Suspenso;58;1;Masculino;San Borja;CINESTAR;Ubicación;Muy Malo;Sabado;Promociones
+47;6;Comedia;72;4;Femenino;Lince;UVK;Buenos Precios;Malo;Viernes;Precios
+27;2;Suspenso;83;5;Femenino;Surco;CINEMARK;Buena Cartelera;Muy bueno;Sabado;Promociones
+26;5;Romance;75;5;Masculino;La Molina;CINEMARK;Calidad de Salas;Pésimo;Viernes;Promociones
+72;8;Suspenso;55;4;Masculino;Surco;CINEPLANET;Calidad de Salas;Malo;Domingo;Higiene
+36;1;Accion y drama;85;3;Femenino;Barranco;CINEMARK;Buena Atención;Excelente;Martes;Precios
+35;6;Ciencia Ficción;72;3;Femenino;San Juan de Lurigancho;CINEPLANET;Buena Cartelera;Regular;Domingo;Comodidad
+28;9;Dibujos animados;53;1;Femenino;Surco;UVK;Buena Atención;Excelente;Viernes;Precios
+20;5;Ciencia Ficción;75;2;Femenino;Barranco;UVK;Calidad de Salas;Excelente;Viernes;Higiene
+33;2;Accion y drama;83;1;Masculino;Surco;CINEMARK;Buenos Precios;Regular;Martes;Horarios
+37;1;Ciencia Ficción;85;3;Femenino;Barranco;CINESTAR;Amplio Estacionamiento;Regular;Martes;Comodidad
+24;11;Dibujos animados;58;1;Femenino;San Juan de Lurigancho;CINEMARK;Calidad de Salas;Excelente;Lunes;Higiene
+79;17;Accion y drama;41;4;Masculino;San Borja;CINEPLANET;Buena Cartelera;Pésimo;Martes;Puntualidad
+82;5;Romance;75;6;Masculino;San Miguel;CINEMARK;Buena Cartelera;Excelente;Sabado;Promociones
+40;14;Dibujos animados;43;4;Masculino;Barranco;UVK;Amplio Estacionamiento;Muy bueno;Martes;Higiene
+69;8;Suspenso;55;6;Masculino;Miraflores;UVK;Buenos Precios;Malo;Lunes;Horarios
+47;11;Ciencia Ficción;58;3;Masculino;San Juan de Lurigancho;UVK;Buena Atención;Malo;Sabado;Puntualidad
+71;13;Suspenso;52;1;Femenino;Surco;CINESTAR;Buena Atención;Muy Malo;Domingo;Puntualidad
+40;1;Dibujos animados;85;6;Femenino;San Borja;CINERAMA;Buena Atención;Bueno;Jueves;Promociones
+54;13;Dibujos animados;52;1;Femenino;Surco;UVK;Amplio Estacionamiento;Excelente;Miercoles;Promociones
+38;11;Dibujos animados;58;3;Femenino;La Molina;UVK;Buena Cartelera;Muy bueno;Viernes;Horarios
+78;6;Ciencia Ficción;72;2;Masculino;San Borja;CINEPLANET;Calidad de Salas;Muy bueno;Viernes;Puntualidad
+33;2;Ciencia Ficción;83;3;Femenino;Miraflores;CINEPLANET;Amplio Estacionamiento;Muy bueno;Viernes;Seguridad
+78;2;Ciencia Ficción;83;5;Femenino;La Molina;CINESTAR;Calidad de Salas;Bueno;Viernes;Puntualidad
+14;10;Comedia;51;3;Masculino;San Juan de Lurigancho;UVK;Amplio Estacionamiento;Excelente;Viernes;Horarios
+31;7;Comedia;53;1;Femenino;Surco;UVK;Calidad de Salas;Malo;Martes;Puntualidad
+13;7;Comedia;53;1;Masculino;Surco;CINESTAR;Amplio Estacionamiento;Muy bueno;Domingo;Comodidad
+68;2;Dibujos animados;83;1;Femenino;Surco;CINEMARK;Buenos Precios;Muy Malo;Sabado;Horarios
+74;1;Suspenso;85;1;Femenino;Barranco;CINEMARK;Ubicación;Muy Malo;Lunes;Precios
+81;12;Comedia;55;3;Femenino;San Juan de Lurigancho;CINEPLANET;Buena Cartelera;Pésimo;Martes;Puntualidad
+57;7;Suspenso;53;6;Masculino;San Juan de Lurigancho;CINEMARK;Ubicación;Muy Malo;Martes;Precios
+20;9;Romance;53;3;Femenino;Lince;CINEMARK;Buena Cartelera;Bueno;Viernes;Horarios
+44;7;Accion y drama;53;3;Femenino;Surco;CINEPLANET;Ubicación;Muy bueno;Martes;Comodidad
+33;1;Romance;85;1;Masculino;Los Olivos;CINEMARK;Ubicación;Muy bueno;Viernes;Puntualidad
+40;7;Suspenso;53;1;Femenino;San Borja;CINEMARK;Buenos Precios;Bueno;Sabado;Seguridad
+38;6;Ciencia Ficción;72;4;Masculino;Barranco;UVK;Calidad de Salas;Excelente;Viernes;Seguridad
+77;2;Suspenso;83;6;Masculino;Surco;CINERAMA;Buena Cartelera;Muy bueno;Martes;Puntualidad
+35;4;Accion y drama;77;1;Femenino;San Juan de Lurigancho;CINEPLANET;Buenos Precios;Excelente;Lunes;Seguridad
+40;14;Suspenso;43;3;Masculino;San Miguel;UVK;Buenos Precios;Excelente;Martes;Promociones
+44;6;Dibujos animados;72;2;Femenino;Miraflores;UVK;Ubicación;Excelente;Lunes;Seguridad
+21;9;Ciencia Ficción;53;4;Femenino;Lince;CINEMARK;Buenos Precios;Muy bueno;Sabado;Horarios
+73;6;Ciencia Ficción;72;1;Femenino;La Molina;UVK;Amplio Estacionamiento;Malo;Martes;Horarios
+65;5;Dibujos animados;75;4;Masculino;San Borja;CINEMARK;Buena Atención;Muy bueno;Lunes;Seguridad
+77;2;Ciencia Ficción;83;3;Femenino;San Juan de Lurigancho;UVK;Buena Atención;Muy bueno;Lunes;Horarios
+37;5;Suspenso;75;1;Femenino;Miraflores;UVK;Ubicación;Malo;Viernes;Comodidad
+30;7;Comedia;53;1;Femenino;San Borja;CINEPLANET;Buena Atención;Excelente;Jueves;Seguridad
+37;4;Comedia;77;3;Femenino;San Miguel;CINEMARK;Ubicación;Bueno;Martes;Precios
+35;9;Accion y drama;53;2;Femenino;Surco;CINERAMA;Buenos Precios;Muy Malo;Lunes;Horarios
+11;8;Romance;55;5;Femenino;Barranco;CINESTAR;Calidad de Salas;Muy Malo;Jueves;Horarios
+46;2;Accion y drama;83;4;Masculino;Surco;CINESTAR;Buena Cartelera;Excelente;Viernes;Seguridad
+27;3;Ciencia Ficción;83;4;Femenino;Surco;UVK;Ubicación;Excelente;Jueves;Comodidad
+29;14;Romance;43;3;Masculino;Miraflores;CINERAMA;Calidad de Salas;Bueno;Lunes;Seguridad
+38;2;Accion y drama;83;1;Femenino;San Juan de Lurigancho;UVK;Ubicación;Bueno;Martes;Puntualidad
+74;16;Comedia;44;4;Femenino;Lince;CINEMARK;Amplio Estacionamiento;Excelente;Miercoles;Horarios
+40;1;Ciencia Ficción;85;5;Masculino;La Molina;CINEMARK;Ubicación;Muy bueno;Jueves;Horarios
+45;14;Suspenso;43;5;Femenino;San Juan de Lurigancho;UVK;Calidad de Salas;Muy Malo;Sabado;Comodidad
+40;4;Ciencia Ficción;77;2;Masculino;Los Olivos;UVK;Amplio Estacionamiento;Regular;Domingo;Puntualidad
+55;5;Comedia;75;4;Masculino;San Miguel;CINEMARK;Ubicación;Excelente;Jueves;Horarios
+40;13;Accion y drama;52;2;Masculino;San Miguel;UVK;Amplio Estacionamiento;Muy bueno;Martes;Puntualidad
+28;7;Suspenso;53;2;Femenino;Los Olivos;UVK;Ubicación;Muy bueno;Domingo;Puntualidad
+25;4;Dibujos animados;77;6;Masculino;Barranco;UVK;Amplio Estacionamiento;Pésimo;Domingo;Puntualidad
+57;17;Romance;41;6;Femenino;Lince;CINEMARK;Buena Atención;Malo;Sabado;Promociones
+21;6;Suspenso;72;4;Femenino;Surco;UVK;Buena Cartelera;Excelente;Viernes;Comodidad
+61;1;Comedia;85;1;Masculino;Lince;CINEMARK;Amplio Estacionamiento;Pésimo;Domingo;Higiene
+39;1;Romance;85;2;Masculino;San Borja;CINESTAR;Amplio Estacionamiento;Pésimo;Martes;Seguridad
+38;14;Accion y drama;43;1;Femenino;Barranco;UVK;Buena Cartelera;Bueno;Martes;Horarios
+13;9;Accion y drama;53;2;Masculino;La Molina;CINESTAR;Buena Cartelera;Malo;Martes;Horarios
+37;17;Ciencia Ficción;41;4;Femenino;Surco;CINEMARK;Amplio Estacionamiento;Muy bueno;Martes;Horarios
+49;13;Romance;52;3;Femenino;La Molina;CINERAMA;Ubicación;Muy Malo;Martes;Puntualidad
+40;7;Romance;53;3;Masculino;Barranco;CINESTAR;Buena Cartelera;Excelente;Martes;Higiene
+88;11;Ciencia Ficción;58;3;Masculino;San Borja;CINEMARK;Amplio Estacionamiento;Malo;Jueves;Precios
+55;5;Accion y drama;75;4;Femenino;Surco;CINEMARK;Buena Atención;Muy bueno;Viernes;Horarios
+24;30;Accion y drama;14;2;Femenino;La Molina;CINEMARK;Buena Cartelera;Bueno;Martes;Comodidad
+70;2;Ciencia Ficción;83;1;Femenino;Miraflores;CINEMARK;Calidad de Salas;Excelente;Lunes;Comodidad
+80;9;Romance;53;2;Femenino;Surco;UVK;Amplio Estacionamiento;Muy bueno;Viernes;Precios
+78;12;Ciencia Ficción;55;4;Femenino;San Miguel;CINEMARK;Buena Atención;Muy bueno;Martes;Puntualidad
+22;2;Accion y drama;83;2;Femenino;Los Olivos;CINERAMA;Amplio Estacionamiento;Pésimo;Viernes;Horarios
+36;10;Romance;51;4;Femenino;Miraflores;CINEPLANET;Ubicación;Pésimo;Martes;Puntualidad
+20;6;Suspenso;72;4;Masculino;Surco;CINEMARK;Ubicación;Excelente;Miercoles;Puntualidad
+65;5;Dibujos animados;75;1;Masculino;Surco;UVK;Buena Cartelera;Excelente;Martes;Comodidad
+89;5;Romance;75;5;Femenino;Lince;CINESTAR;Buena Cartelera;Regular;Jueves;Puntualidad
+40;5;Comedia;75;4;Femenino;Miraflores;CINESTAR;Buenos Precios;Excelente;Viernes;Promociones
+75;4;Dibujos animados;77;4;Femenino;Los Olivos;CINESTAR;Buena Cartelera;Bueno;Martes;Horarios
+38;5;Suspenso;75;1;Femenino;Los Olivos;CINESTAR;Amplio Estacionamiento;Excelente;Viernes;Seguridad
+13;7;Romance;53;3;Masculino;Barranco;CINEMARK;Buena Cartelera;Muy bueno;Sabado;Puntualidad
+42;4;Dibujos animados;77;4;Masculino;Surco;CINEMARK;Amplio Estacionamiento;Malo;Viernes;Horarios
+61;12;Ciencia Ficción;55;1;Femenino;Lince;CINESTAR;Buenos Precios;Excelente;Martes;Seguridad
+46;2;Dibujos animados;83;4;Masculino;Miraflores;CINESTAR;Buena Atención;Muy bueno;Domingo;Promociones
+38;2;Accion y drama;83;2;Masculino;Miraflores;UVK;Buenos Precios;Muy bueno;Domingo;Horarios
+46;4;Accion y drama;77;5;Femenino;Barranco;CINESTAR;Amplio Estacionamiento;Excelente;Viernes;Puntualidad
+38;6;Comedia;72;3;Femenino;Lince;CINEMARK;Buena Atención;Excelente;Lunes;Seguridad
+33;4;Comedia;77;5;Femenino;Miraflores;CINESTAR;Buenos Precios;Pésimo;Martes;Higiene
+63;2;Romance;83;3;Femenino;Surco;CINESTAR;Ubicación;Excelente;Miercoles;Horarios
+46;9;Accion y drama;53;6;Femenino;La Molina;CINESTAR;Buenos Precios;Excelente;Lunes;Higiene
+30;7;Dibujos animados;53;3;Masculino;Surco;CINEMARK;Buena Cartelera;Pésimo;Viernes;Seguridad
+27;6;Ciencia Ficción;72;4;Femenino;San Juan de Lurigancho;CINESTAR;Ubicación;Bueno;Viernes;Puntualidad
+54;5;Accion y drama;75;1;Femenino;Los Olivos;UVK;Calidad de Salas;Malo;Lunes;Precios
+61;5;Comedia;75;4;Femenino;Lince;CINESTAR;Ubicación;Muy Malo;Lunes;Puntualidad
+37;11;Romance;58;4;Femenino;San Juan de Lurigancho;CINEMARK;Buenos Precios;Pésimo;Viernes;Comodidad
+40;2;Comedia;83;2;Femenino;Barranco;CINEMARK;Buena Cartelera;Muy bueno;Jueves;Horarios
+40;7;Suspenso;53;2;Femenino;Lince;CINEMARK;Buena Atención;Malo;Domingo;Precios
+43;8;Ciencia Ficción;55;3;Femenino;Miraflores;CINESTAR;Amplio Estacionamiento;Muy bueno;Viernes;Puntualidad
+14;10;Ciencia Ficción;51;0;Femenino;La Molina;CINEMARK;Calidad de Salas;Bueno;Jueves;Seguridad
+37;27;Romance;15;6;Masculino;Surco;UVK;Ubicación;Bueno;Domingo;Comodidad
+38;7;Suspenso;53;3;Femenino;Lince;CINERAMA;Calidad de Salas;Excelente;Martes;Higiene
+50;10;Romance;51;1;Masculino;San Borja;UVK;Calidad de Salas;Regular;Viernes;Seguridad
+38;2;Accion y drama;83;3;Femenino;Surco;UVK;Amplio Estacionamiento;Muy Malo;Jueves;Horarios
+19;5;Ciencia Ficción;75;2;Masculino;Barranco;CINEMARK;Amplio Estacionamiento;Excelente;Viernes;Horarios
+29;7;Suspenso;53;1;Femenino;Lince;CINEMARK;Amplio Estacionamiento;Excelente;Martes;Horarios
+40;2;Suspenso;83;4;Masculino;San Juan de Lurigancho;UVK;Ubicación;Muy Malo;Martes;Seguridad
+39;14;Romance;43;1;Femenino;Lince;CINEMARK;Amplio Estacionamiento;Muy bueno;Domingo;Seguridad
+38;1;Comedia;85;1;Masculino;San Juan de Lurigancho;CINEPLANET;Ubicación;Muy bueno;Miercoles;Horarios
+85;27;Romance;13;1;Masculino;La Molina;CINEPLANET;Buena Atención;Muy Malo;Viernes;Seguridad
+22;2;Romance;83;3;Femenino;San Miguel;CINEMARK;Buenos Precios;Muy bueno;Domingo;Promociones
+53;5;Comedia;75;1;Masculino;San Miguel;CINEMARK;Buena Atención;Malo;Viernes;Promociones
+33;13;Accion y drama;52;1;Femenino;Los Olivos;CINESTAR;Buenos Precios;Pésimo;Martes;Puntualidad
+35;7;Comedia;73;1;Masculino;Surco;CINESTAR;Ubicación;Pésimo;Domingo;Puntualidad
+20;2;Romance;83;1;Femenino;Surco;CINEMARK;Buena Atención;Excelente;Lunes;Horarios
+34;12;Romance;55;2;Femenino;San Miguel;CINERAMA;Buenos Precios;Excelente;Domingo;Precios
+27;14;Suspenso;43;5;Femenino;Miraflores;CINESTAR;Ubicación;Malo;Sabado;Seguridad
+34;1;Comedia;85;2;Masculino;La Molina;CINEMARK;Buena Cartelera;Malo;Martes;Seguridad
+31;7;Accion y drama;53;4;Femenino;Surco;UVK;Calidad de Salas;Regular;Viernes;Puntualidad
+38;7;Comedia;53;4;Masculino;San Borja;CINESTAR;Amplio Estacionamiento;Malo;Domingo;Comodidad
+21;27;Accion y drama;13;2;Femenino;Miraflores;CINEPLANET;Buena Atención;Muy Malo;Domingo;Puntualidad
+53;9;Suspenso;53;3;Masculino;Lince;CINEPLANET;Buenos Precios;Malo;Jueves;Puntualidad
+89;14;Ciencia Ficción;43;1;Masculino;Los Olivos;CINEMARK;Buenos Precios;Malo;Lunes;Seguridad
+45;5;Comedia;75;3;Femenino;San Juan de Lurigancho;CINESTAR;Buenos Precios;Excelente;Martes;Comodidad
+67;2;Comedia;83;6;Masculino;Lince;CINEMARK;Calidad de Salas;Muy Malo;Domingo;Horarios
+26;14;Accion y drama;43;5;Femenino;San Juan de Lurigancho;UVK;Buena Cartelera;Muy Malo;Martes;Promociones
+50;2;Accion y drama;83;1;Femenino;Los Olivos;UVK;Buenos Precios;Muy bueno;Domingo;Horarios
+38;17;Comedia;43;2;Femenino;Lince;UVK;Buena Cartelera;Malo;Lunes;Promociones
+24;4;Suspenso;77;0;Femenino;Barranco;CINEMARK;Amplio Estacionamiento;Muy Malo;Martes;Promociones
+49;1;Accion y drama;85;4;Femenino;San Juan de Lurigancho;CINEPLANET;Buena Cartelera;Excelente;Martes;Puntualidad
+40;4;Suspenso;77;1;Femenino;La Molina;CINESTAR;Buena Cartelera;Excelente;Domingo;Horarios
+49;2;Accion y drama;83;1;Femenino;San Miguel;UVK;Buenos Precios;Excelente;Viernes;Precios
+25;11;Comedia;58;1;Masculino;Surco;CINESTAR;Buenos Precios;Muy Malo;Martes;Horarios
+34;17;Dibujos animados;43;6;Femenino;Surco;CINERAMA;Buenos Precios;Excelente;Martes;Precios
+43;27;Ciencia Ficción;13;3;Femenino;Barranco;UVK;Buena Cartelera;Excelente;Viernes;Higiene
+40;4;Comedia;77;4;Femenino;San Borja;UVK;Buenos Precios;Malo;Lunes;Higiene
+35;11;Ciencia Ficción;58;5;Femenino;Surco;CINEMARK;Amplio Estacionamiento;Pésimo;Domingo;Higiene
+40;3;Accion y drama;83;3;Femenino;Barranco;CINEMARK;Buenos Precios;Muy bueno;Miercoles;Seguridad
+36;9;Comedia;55;3;Femenino;Los Olivos;CINEMARK;Amplio Estacionamiento;Muy bueno;Martes;Puntualidad
+60;9;Dibujos animados;55;1;Masculino;Miraflores;CINEPLANET;Calidad de Salas;Malo;Viernes;Higiene
+78;3;Dibujos animados;83;4;Masculino;San Borja;UVK;Amplio Estacionamiento;Muy bueno;Viernes;Higiene
+36;17;Romance;43;1;Femenino;San Miguel;UVK;Buena Cartelera;Muy bueno;Martes;Comodidad
+61;2;Suspenso;83;1;Femenino;La Molina;CINERAMA;Buenos Precios;Muy bueno;Jueves;Seguridad
+70;13;Suspenso;52;1;Femenino;Barranco;CINERAMA;Buenos Precios;Malo;Martes;Puntualidad
+35;4;Accion y drama;77;3;Femenino;Surco;CINEMARK;Calidad de Salas;Excelente;Lunes;Horarios
+43;5;Ciencia Ficción;75;3;Masculino;San Miguel;UVK;Buena Cartelera;Malo;Domingo;Seguridad
+42;6;Ciencia Ficción;72;3;Masculino;Surco;CINEMARK;Amplio Estacionamiento;Excelente;Viernes;Horarios
+46;11;Ciencia Ficción;58;2;Femenino;San Miguel;CINESTAR;Buenos Precios;Regular;Viernes;Horarios
+75;12;Ciencia Ficción;55;1;Femenino;Los Olivos;CINEMARK;Calidad de Salas;Regular;Jueves;Comodidad
+74;4;Ciencia Ficción;83;4;Femenino;Lince;CINEPLANET;Calidad de Salas;Malo;Jueves;Horarios
+79;4;Suspenso;83;2;Masculino;Miraflores;UVK;Buena Cartelera;Excelente;Martes;Higiene
+78;1;Romance;85;3;Femenino;Los Olivos;UVK;Buena Cartelera;Excelente;Viernes;Comodidad
+37;2;Suspenso;83;5;Masculino;San Juan de Lurigancho;CINERAMA;Calidad de Salas;Muy bueno;Martes;Precios
+23;13;Dibujos animados;55;6;Femenino;Barranco;CINEMARK;Buena Cartelera;Excelente;Domingo;Horarios
+22;6;Dibujos animados;72;5;Masculino;San Miguel;CINEMARK;Ubicación;Malo;Viernes;Puntualidad
+14;10;Suspenso;51;6;Masculino;La Molina;CINESTAR;Calidad de Salas;Excelente;Sabado;Horarios
+41;16;Suspenso;45;1;Masculino;La Molina;CINEMARK;Amplio Estacionamiento;Bueno;Martes;Horarios
+38;1;Accion y drama;85;3;Masculino;Miraflores;CINERAMA;Amplio Estacionamiento;Muy Malo;Martes;Puntualidad
+26;12;Romance;55;6;Femenino;Surco;CINEMARK;Calidad de Salas;Malo;Martes;Puntualidad
+28;9;Suspenso;53;1;Femenino;Surco;CINESTAR;Buena Atención;Excelente;Martes;Higiene
+43;11;Comedia;58;4;Femenino;San Borja;CINEMARK;Buena Atención;Muy Malo;Martes;Puntualidad
+12;2;Dibujos animados;83;4;Masculino;San Miguel;UVK;Ubicación;Malo;Domingo;Seguridad
+38;2;Dibujos animados;85;5;Masculino;Surco;CINEPLANET;Buena Atención;Muy bueno;Miercoles;Higiene
+80;2;Dibujos animados;83;1;Masculino;San Borja;CINESTAR;Calidad de Salas;Muy Malo;Viernes;Precios
+57;30;Suspenso;14;4;Femenino;Lince;CINEPLANET;Calidad de Salas;Bueno;Lunes;Seguridad
+72;2;Accion y drama;83;1;Masculino;Los Olivos;CINERAMA;Amplio Estacionamiento;Muy bueno;Sabado;Precios
+36;14;Comedia;43;5;Masculino;Lince;UVK;Buena Cartelera;Excelente;Martes;Higiene
+47;28;Dibujos animados;13;3;Femenino;Surco;CINEPLANET;Ubicación;Regular;Martes;Puntualidad
+40;16;Accion y drama;44;3;Femenino;Surco;CINEMARK;Calidad de Salas;Muy Malo;Lunes;Horarios
+73;3;Ciencia Ficción;83;4;Masculino;Surco;CINERAMA;Buena Cartelera;Bueno;Lunes;Precios
+74;8;Ciencia Ficción;55;2;Femenino;Miraflores;CINESTAR;Ubicación;Excelente;Viernes;Puntualidad
+45;2;Ciencia Ficción;83;4;Femenino;Surco;CINESTAR;Amplio Estacionamiento;Pésimo;Domingo;Promociones
+10;1;Accion y drama;85;5;Masculino;Miraflores;CINERAMA;Amplio Estacionamiento;Muy Malo;Viernes;Puntualidad
+25;4;Dibujos animados;75;1;Femenino;Lince;UVK;Ubicación;Malo;Martes;Comodidad
+28;6;Dibujos animados;73;4;Femenino;Barranco;CINERAMA;Buena Cartelera;Pésimo;Jueves;Higiene
+42;4;Accion y drama;77;4;Masculino;Surco;CINEMARK;Buena Atención;Excelente;Sabado;Seguridad
+36;6;Suspenso;72;1;Masculino;Los Olivos;CINEPLANET;Buenos Precios;Excelente;Viernes;Puntualidad
+60;12;Dibujos animados;55;6;Femenino;Surco;CINEMARK;Amplio Estacionamiento;Excelente;Domingo;Puntualidad
+26;10;Accion y drama;51;1;Femenino;Surco;CINERAMA;Buena Atención;Muy Malo;Domingo;Horarios
+28;10;Accion y drama;51;1;Femenino;San Juan de Lurigancho;CINESTAR;Buenos Precios;Pésimo;Martes;Horarios
+26;31;Dibujos animados;14;1;Masculino;San Juan de Lurigancho;CINERAMA;Buena Cartelera;Excelente;Lunes;Promociones
+72;7;Ciencia Ficción;73;1;Femenino;Los Olivos;UVK;Buena Cartelera;Muy bueno;Martes;Seguridad
+33;10;Accion y drama;53;1;Masculino;Surco;CINEMARK;Ubicación;Bueno;Martes;Puntualidad
+80;7;Ciencia Ficción;53;5;Femenino;San Juan de Lurigancho;CINESTAR;Amplio Estacionamiento;Malo;Domingo;Higiene
+49;16;Romance;45;1;Femenino;Barranco;CINESTAR;Buena Atención;Muy Malo;Domingo;Promociones
+48;16;Comedia;43;4;Femenino;Surco;UVK;Calidad de Salas;Muy Malo;Viernes;Promociones
